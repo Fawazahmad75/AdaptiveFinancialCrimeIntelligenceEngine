@@ -1,0 +1,1001 @@
+account_id,customer_type,customer_age,account_age_days,risk_category,region,business_type,avg_monthly_transactions,avg_transaction_amount
+NRM770487,normal,60,1225,low,North America,Retail,25,864.4913381679389
+NRM216739,normal,40,1603,low,North America,Restaurant,8,800.0474078175098
+NRM126225,normal,24,2050,low,North America,Retail,10,103.81595262097021
+NRM877572,normal,42,1549,low,North America,Individual,16,213.0058827029372
+NRM388389,normal,48,1447,low,Europe,Individual,20,1240.5795681084908
+NRM356787,normal,68,3370,low,North America,Individual,29,327.60702232798883
+NRM334053,normal,72,1011,low,North America,Individual,8,4716.788602855779
+NRM246316,normal,35,606,low,Europe,Individual,6,3452.741829909569
+NRM872246,normal,68,3368,low,North America,Individual,19,949.4868021880832
+NRM207473,normal,38,2320,low,North America,Retail,10,1118.9141480541252
+NRM809570,normal,25,1865,low,Africa,Retail,6,2036.2361564088908
+NRM876646,normal,57,2682,low,Asia Pacific,Individual,18,1060.3160258538114
+NRM671858,normal,61,3132,low,Asia Pacific,Individual,28,1848.0913007985876
+NRM191161,normal,66,3477,low,North America,Individual,29,4935.745989342535
+NRM719176,normal,45,1517,low,North America,Individual,15,1074.3277800351452
+NRM542417,normal,29,2063,low,Asia Pacific,Retail,14,1856.4820698669357
+NRM133326,normal,62,3464,low,Latin America,Retail,6,567.5095708030154
+NRM131244,normal,44,2116,low,Asia Pacific,Individual,26,4447.342438624
+NRM198246,normal,22,3025,low,Africa,Restaurant,9,2850.2582680905316
+NRM329258,normal,35,1235,low,North America,Retail,14,2252.7488591422734
+NRM343962,normal,72,1228,low,Asia Pacific,Individual,8,4547.075722237856
+NRM629903,normal,44,2643,low,Europe,Retail,8,4719.982495734107
+NRM731262,normal,28,2087,low,Asia Pacific,Restaurant,14,4059.789859865643
+NRM127824,normal,74,3058,low,Europe,Individual,24,4473.539092600891
+NRM688508,normal,32,2028,low,Latin America,Restaurant,11,4543.459363574195
+NRM308496,normal,22,1765,low,Asia Pacific,Individual,17,4317.579857956083
+NRM850800,normal,60,1074,low,Europe,Individual,9,3492.936561162325
+NRM781453,normal,63,1048,low,North America,Individual,28,3544.7928985863714
+NRM835392,normal,70,2218,low,Africa,Consulting,11,2536.5176788726885
+NRM671412,normal,70,2001,low,North America,Individual,21,4885.413283579999
+NRM539898,normal,49,1954,low,North America,Individual,5,1273.8532642681648
+NRM331148,normal,23,1441,low,Europe,Consulting,27,3393.4641822888047
+NRM571029,normal,32,3620,low,North America,Retail,28,2404.4731087855885
+NRM717889,normal,55,562,low,Europe,Restaurant,20,4192.982228387265
+NRM391704,normal,27,2876,low,North America,Individual,8,181.28036174649515
+NRM948749,normal,24,1899,low,North America,Retail,24,4708.563995999059
+NRM106814,normal,61,2028,low,Europe,Restaurant,15,1771.2251201462666
+NRM895667,normal,46,2334,low,Middle East,Restaurant,7,1219.8951068067684
+NRM944962,normal,37,2758,low,Africa,Individual,21,1285.0762254122133
+NRM267414,normal,69,2666,low,Latin America,Consulting,27,1761.2459761386333
+NRM832052,normal,56,2047,low,Asia Pacific,Restaurant,28,2082.0898228987317
+NRM543143,normal,54,992,low,North America,Individual,10,3378.0424480997203
+NRM456778,normal,56,3548,low,North America,Retail,22,887.9594519457434
+NRM391369,normal,39,3234,low,Europe,Consulting,8,3589.6781846029257
+NRM263032,normal,54,762,low,North America,Retail,12,4261.194711421472
+NRM325772,normal,38,1004,low,Europe,Individual,23,3218.0298291108875
+NRM900581,normal,43,3162,low,Europe,Consulting,23,4471.028120367855
+NRM452944,normal,48,2439,low,Asia Pacific,Individual,19,2513.336699712433
+NRM207175,normal,26,3432,low,Asia Pacific,Individual,7,3865.914670100914
+NRM197251,normal,38,3608,low,Middle East,Consulting,25,4429.120709104669
+NRM498382,normal,62,1425,low,Middle East,Individual,25,2904.2330989371076
+NRM201414,normal,54,1504,low,North America,Individual,27,1415.5267987617685
+NRM476417,normal,24,492,low,Europe,Individual,26,3510.5460037073676
+NRM988662,normal,61,3098,low,North America,Retail,26,1857.369228351203
+NRM460663,normal,48,2902,low,Latin America,Retail,5,769.4445240659412
+NRM733052,normal,69,3475,low,North America,Restaurant,7,1355.4140236128444
+NRM377370,normal,45,889,low,North America,Individual,8,4011.646376937198
+NRM946335,normal,22,2924,low,Europe,Individual,23,1756.1762685725255
+NRM145561,normal,49,1198,low,Europe,Retail,23,2381.4302888490547
+NRM865179,normal,43,2726,low,Latin America,Individual,14,4130.742747232325
+NRM581741,normal,64,2856,low,North America,Restaurant,16,4829.733968914772
+NRM662275,normal,60,1584,low,Latin America,Individual,19,3527.60983275925
+NRM230889,normal,61,3068,low,Africa,Individual,23,3996.412354366648
+NRM496922,normal,40,1446,low,North America,Individual,25,496.2775364242686
+NRM182627,normal,30,2296,low,Europe,Individual,5,2267.525925682412
+NRM678856,normal,53,1506,low,Asia Pacific,Retail,25,3227.525909832417
+NRM407419,normal,60,1068,low,Europe,Retail,27,333.8090256890791
+NRM969693,normal,47,2044,low,North America,Individual,18,549.8154224858652
+NRM759176,normal,68,1373,low,North America,Consulting,9,2423.4517625278936
+NRM748564,normal,47,2886,low,Europe,Individual,5,2376.901683404096
+NRM479201,normal,58,2435,low,North America,Consulting,8,321.98964788301816
+NRM705397,normal,52,3174,low,Middle East,Individual,28,3327.5987949328305
+NRM301629,normal,25,3452,low,North America,Retail,21,4349.2747744195185
+NRM838797,normal,53,1216,low,Europe,Individual,5,2345.4391634084313
+NRM172933,normal,72,2001,low,Asia Pacific,Restaurant,12,4536.218145584712
+NRM148050,normal,65,649,low,North America,Individual,6,290.91934832014476
+NRM793384,normal,71,2447,low,North America,Retail,14,214.03248510554675
+NRM338968,normal,55,479,low,North America,Individual,25,1806.8493618206671
+NRM910620,normal,32,777,low,North America,Individual,29,2785.062227915628
+NRM403445,normal,58,2869,low,Europe,Individual,7,2121.8266168659898
+NRM183667,normal,39,1373,low,Asia Pacific,Individual,9,1269.124612972667
+NRM996865,normal,34,2691,low,Asia Pacific,Individual,21,2718.204620299761
+NRM344098,normal,41,2268,low,Europe,Individual,23,2007.0882257973992
+NRM205907,normal,33,2857,low,Middle East,Individual,11,4788.324337119636
+NRM498591,normal,52,1215,low,Europe,Individual,9,1536.732781320516
+NRM391476,normal,46,3360,low,Asia Pacific,Retail,27,3928.3506473088923
+NRM575435,normal,60,2521,low,Middle East,Consulting,18,2792.691523386304
+NRM766563,normal,26,3599,low,Latin America,Individual,22,4846.394525473261
+NRM974628,normal,30,3510,low,Latin America,Restaurant,10,512.1233499634875
+NRM482554,normal,34,1556,low,North America,Restaurant,6,498.60902514530886
+NRM270555,normal,58,1810,low,Africa,Individual,5,4413.763846328242
+NRM488162,normal,38,875,low,Middle East,Individual,8,1943.6719691014873
+NRM472528,normal,52,2175,low,Asia Pacific,Individual,14,4541.136486964207
+NRM319684,normal,60,3562,low,Europe,Individual,24,682.2077897135524
+NRM802729,normal,62,2323,low,Asia Pacific,Individual,29,1936.86583966615
+NRM379946,normal,70,1188,low,Europe,Individual,16,4891.713276895927
+NRM835911,normal,66,2217,low,North America,Individual,25,4965.527500984572
+NRM816751,normal,58,2064,low,Europe,Consulting,22,914.4556163553393
+NRM779514,normal,70,1914,low,North America,Consulting,26,2963.140128423191
+NRM174870,normal,37,835,low,North America,Individual,20,4462.29254106549
+NRM738720,normal,33,1032,low,North America,Individual,8,2372.1221842059126
+NRM765822,normal,71,904,low,North America,Consulting,26,258.3481604372873
+NRM279451,normal,30,1293,low,Europe,Retail,20,896.8230027899674
+NRM660086,normal,67,754,low,Middle East,Retail,19,4603.965103994242
+NRM864544,normal,31,3236,low,Latin America,Individual,9,229.19817503653482
+NRM356702,normal,54,738,low,Latin America,Consulting,21,1946.0209526959097
+NRM271339,normal,47,427,low,Europe,Restaurant,21,4207.810653084575
+NRM584714,normal,55,2517,low,Europe,Individual,20,469.25939572706534
+NRM497887,normal,49,2365,low,Europe,Retail,7,2821.6153574528744
+NRM383060,normal,58,3089,low,Asia Pacific,Individual,25,2307.6662630194583
+NRM771088,normal,67,2413,low,Africa,Retail,5,3391.333353588698
+NRM821590,normal,53,2446,low,Europe,Individual,6,2433.4324142661694
+NRM684004,normal,24,632,low,Latin America,Consulting,29,2990.7838959744167
+NRM330283,normal,68,3331,low,Asia Pacific,Retail,6,4044.718870844873
+NRM817870,normal,60,1128,low,Africa,Retail,22,2021.9958209886884
+NRM440035,normal,48,2847,low,Middle East,Individual,10,2309.4611923389116
+NRM983794,normal,36,1384,low,North America,Individual,21,4752.651055922446
+NRM905635,normal,25,502,low,Middle East,Individual,24,2349.7652055674803
+NRM913694,normal,55,2465,low,North America,Individual,15,1276.713532013146
+NRM158655,normal,72,2523,low,North America,Individual,15,780.2531459821097
+NRM340174,normal,29,1264,low,North America,Individual,7,4384.156263786644
+NRM961722,normal,48,457,low,Africa,Retail,23,300.2562197057464
+NRM133659,normal,26,1854,low,North America,Individual,25,2788.705015116302
+NRM944151,normal,26,2645,low,Europe,Restaurant,21,2566.744627188799
+NRM430776,normal,66,3509,low,North America,Individual,26,500.61925654947237
+NRM520651,normal,51,471,low,Middle East,Individual,8,4050.3862709860005
+NRM380746,normal,70,2255,low,North America,Individual,28,2474.1626274360046
+NRM169403,normal,47,392,low,Europe,Individual,17,405.4726763050831
+NRM321231,normal,72,1395,low,Asia Pacific,Restaurant,15,2707.356077800047
+NRM694731,normal,66,3218,low,Europe,Individual,29,3713.285509859714
+NRM852787,normal,49,1078,low,Europe,Restaurant,26,1704.7370256717818
+NRM429963,normal,65,901,low,Latin America,Individual,8,1840.0110860685934
+NRM322955,normal,62,2521,low,Europe,Individual,26,2975.5214783023075
+NRM787277,normal,29,3160,low,North America,Individual,10,4508.272246010561
+NRM623481,normal,55,2340,low,Europe,Individual,29,1262.411279506373
+NRM514850,normal,43,2689,low,North America,Individual,8,4269.005837397117
+NRM774079,normal,51,1995,low,North America,Restaurant,7,2670.1058088942477
+NRM581141,normal,61,593,low,Africa,Individual,6,2922.392247247734
+NRM249811,normal,32,368,low,North America,Consulting,28,3642.1908734467006
+NRM377746,normal,23,1211,low,Europe,Individual,17,3870.515372640491
+NRM246413,normal,27,1798,low,North America,Individual,5,3707.611200122592
+NRM358607,normal,33,923,low,Asia Pacific,Retail,10,2948.0672849708003
+NRM881177,normal,32,3257,low,Europe,Individual,22,2325.9130638735883
+NRM688637,normal,26,2307,low,Europe,Individual,12,4068.3847846877106
+NRM665158,normal,22,1707,low,Asia Pacific,Retail,15,2418.514385154272
+NRM375504,normal,59,2403,low,Asia Pacific,Individual,9,4170.035098159873
+NRM883300,normal,65,2334,low,North America,Retail,13,1104.5088692608624
+NRM712982,normal,56,1935,low,Middle East,Retail,12,4156.910347169711
+NRM549245,normal,58,2682,low,Asia Pacific,Restaurant,9,4091.4161291337723
+NRM711878,normal,35,2986,low,Europe,Restaurant,29,3446.612110743949
+NRM518801,normal,29,1683,low,Asia Pacific,Restaurant,10,2744.927203381702
+NRM479580,normal,36,1357,low,North America,Restaurant,27,2706.1016504720524
+NRM329974,normal,74,2516,low,Asia Pacific,Individual,10,1730.797350971173
+NRM245051,normal,72,2966,low,North America,Retail,5,2713.9593506839756
+NRM634277,normal,60,1287,low,Asia Pacific,Individual,5,3564.2042600929494
+NRM617488,normal,48,1315,low,North America,Individual,6,3836.047560129384
+NRM195325,normal,31,3277,low,North America,Individual,19,4247.616229499139
+NRM892495,normal,45,3360,low,Europe,Retail,9,2483.1516617784782
+NRM149405,normal,25,3256,low,Asia Pacific,Individual,23,3500.34737788879
+NRM214975,normal,57,1158,low,North America,Individual,15,4799.466493363736
+NRM260265,normal,61,2962,low,North America,Individual,18,3113.2562894480066
+NRM757924,normal,47,2553,low,North America,Individual,5,188.73990072211848
+NRM267753,normal,64,3416,low,Europe,Retail,28,212.8107634594238
+NRM930555,normal,63,3421,low,Europe,Retail,26,478.87322089505756
+NRM813536,normal,35,3191,low,Europe,Individual,25,911.0505007997199
+NRM542666,normal,57,1570,low,Latin America,Individual,26,2642.306479917753
+NRM725380,normal,61,2299,low,Europe,Individual,13,1107.3410610406236
+NRM166613,normal,74,1301,low,North America,Individual,15,4622.505135812576
+NRM503457,normal,28,3646,low,Europe,Consulting,15,260.9486841928479
+NRM500156,normal,72,1570,low,North America,Individual,10,266.00788520831543
+NRM724834,normal,54,2589,low,Asia Pacific,Individual,22,3351.333122881882
+NRM590785,normal,28,1213,low,Africa,Individual,26,4317.096887664597
+NRM654816,normal,61,2973,low,North America,Individual,27,2191.265636150072
+NRM363626,normal,40,2444,low,Europe,Retail,20,2867.7215529868204
+NRM680099,normal,39,1133,low,Asia Pacific,Individual,6,2718.8338671605097
+NRM112038,normal,70,2526,low,Europe,Retail,8,991.4478394268285
+NRM813328,normal,50,419,low,Middle East,Individual,14,4497.409008112532
+NRM855731,normal,55,2499,low,Africa,Restaurant,11,3328.7273153597416
+NRM220116,normal,22,677,low,North America,Individual,12,610.1320517244119
+NRM814825,normal,68,2991,low,Latin America,Individual,12,587.2628245207914
+NRM663054,normal,53,1476,low,Asia Pacific,Restaurant,15,4816.981660918886
+NRM887352,normal,73,529,low,North America,Individual,27,4492.045510753487
+NRM379786,normal,28,694,low,North America,Individual,23,701.6067593472717
+NRM905934,normal,40,1936,low,Asia Pacific,Retail,5,4105.47345251836
+NRM772097,normal,41,1110,low,Latin America,Individual,27,1413.5118400320937
+NRM456699,normal,26,1169,low,Europe,Individual,6,4319.233297876136
+NRM216970,normal,56,1888,low,Africa,Retail,21,4355.493081899773
+NRM407757,normal,67,492,low,North America,Individual,21,1416.519060986236
+NRM555884,normal,61,601,low,Europe,Individual,26,4191.158160316565
+NRM265840,normal,25,3078,low,Europe,Individual,27,3447.6008965828587
+NRM575763,normal,27,3582,low,Europe,Restaurant,13,1442.8705813673093
+NRM103402,normal,38,2065,low,Asia Pacific,Restaurant,27,622.2357776305043
+NRM857168,normal,43,2439,low,Middle East,Restaurant,12,1328.580236751829
+NRM854639,normal,66,2405,low,Europe,Individual,21,2151.9755719711584
+NRM376183,normal,49,1066,low,Europe,Individual,26,3716.364720489215
+NRM624902,normal,72,1057,low,Asia Pacific,Individual,25,4201.687054444844
+NRM898975,normal,32,3088,low,Asia Pacific,Individual,7,4751.603305583052
+NRM287330,normal,68,3076,low,Middle East,Retail,5,1422.564989721755
+NRM632342,normal,68,3584,low,North America,Restaurant,21,2532.1946112860583
+NRM211579,normal,66,2391,low,North America,Retail,25,1787.4802870167427
+NRM755674,normal,61,1405,low,Europe,Retail,12,2230.6539591583564
+NRM412942,normal,60,495,low,North America,Individual,23,1433.5111724268172
+NRM982554,normal,55,2936,low,Europe,Individual,21,770.4112915029109
+NRM769987,normal,31,1885,low,North America,Individual,28,3816.122828333839
+NRM632323,normal,52,3073,low,Asia Pacific,Retail,20,4261.058692670064
+NRM738551,normal,46,2878,low,Europe,Individual,13,4725.890764464405
+NRM308573,normal,68,1142,low,Europe,Consulting,25,2418.729578598534
+NRM260263,normal,28,699,low,Asia Pacific,Individual,20,664.8819041116934
+NRM492077,normal,44,1865,low,Europe,Restaurant,11,2330.2040566771648
+NRM899550,normal,63,979,low,North America,Individual,7,2847.318250617219
+NRM269396,normal,66,1486,low,Latin America,Individual,27,2081.9787034410683
+NRM665579,normal,60,2909,low,Europe,Retail,17,3166.8677445413446
+NRM916449,normal,37,857,low,Asia Pacific,Individual,27,2363.5199678203794
+NRM656116,normal,55,2826,low,North America,Individual,22,4701.431722713191
+NRM100599,normal,56,2279,low,Africa,Individual,21,2069.4614766852865
+NRM728038,normal,74,1112,low,Asia Pacific,Restaurant,19,2051.6081814806143
+NRM439902,normal,51,1285,low,North America,Individual,5,1270.0080142646814
+NRM612340,normal,24,1530,low,North America,Restaurant,22,1244.6779801445587
+NRM120422,normal,46,796,low,North America,Consulting,13,636.3912335276642
+NRM217301,normal,45,1328,low,North America,Consulting,9,538.1139113300717
+NRM480612,normal,27,1171,low,Latin America,Consulting,15,4528.247439158826
+NRM972064,normal,55,3589,low,Asia Pacific,Individual,12,4719.385693262116
+NRM945964,normal,74,1754,low,North America,Individual,13,1013.5474845068471
+NRM422451,normal,24,2276,low,Europe,Individual,19,1159.9877128791122
+NRM351083,normal,30,3535,low,Europe,Individual,14,2624.7148291421568
+NRM160738,normal,39,2474,low,Africa,Restaurant,7,1199.7588019996372
+NRM352572,normal,68,3525,low,Europe,Individual,6,2341.4172790911657
+NRM694916,normal,24,3047,low,North America,Restaurant,29,4275.748313400338
+NRM182582,normal,63,885,low,North America,Consulting,15,526.2351235659097
+NRM189814,normal,45,3560,low,Europe,Individual,9,339.03955019854817
+NRM867460,normal,39,818,low,Africa,Individual,9,4958.2291422107355
+NRM609597,normal,71,3476,low,Latin America,Individual,23,4140.936733033232
+NRM955662,normal,61,2254,low,Europe,Restaurant,5,4405.286933140274
+NRM172574,normal,40,2748,low,Asia Pacific,Restaurant,20,3570.9785859036706
+NRM897549,normal,64,2969,low,Asia Pacific,Retail,10,1027.1855449465288
+NRM658582,normal,26,921,low,Latin America,Individual,27,125.21133669810236
+NRM903035,normal,53,2775,low,North America,Consulting,22,4108.038418183405
+NRM231869,normal,35,953,low,Europe,Individual,17,3122.9419000411367
+NRM234628,normal,70,1621,low,Asia Pacific,Individual,28,4111.529160449225
+NRM791798,normal,69,1714,low,North America,Individual,13,4818.660818909074
+NRM598369,normal,49,936,low,North America,Retail,26,4692.41958745861
+NRM676510,normal,53,848,low,North America,Individual,21,3877.823033407464
+NRM273148,normal,38,1250,low,North America,Retail,22,4370.530350146644
+NRM377932,normal,68,649,low,Europe,Retail,24,3815.4896600522106
+NRM653306,normal,28,393,low,North America,Individual,19,4112.049652449759
+NRM736059,normal,32,934,low,North America,Individual,6,4985.910050772784
+NRM543692,normal,38,3535,low,Europe,Individual,27,4147.011752419494
+NRM322086,normal,32,3296,low,Latin America,Retail,24,3307.1049499775627
+NRM665492,normal,48,3261,low,Africa,Individual,25,4556.67010364431
+NRM891952,normal,58,448,low,Europe,Individual,7,1628.5647534261393
+NRM865388,normal,59,3598,low,North America,Individual,29,3603.1277969910134
+NRM823378,normal,39,1659,low,Europe,Individual,18,1098.1361214537437
+NRM310922,normal,50,884,low,Asia Pacific,Restaurant,24,187.52327314376492
+NRM847581,normal,50,1324,low,North America,Consulting,7,1008.7484859156062
+NRM426858,normal,36,3589,low,North America,Individual,16,1312.9457824565384
+NRM518373,normal,30,2066,low,North America,Individual,26,2951.659869380554
+NRM804314,normal,74,2798,low,Asia Pacific,Individual,17,832.9451490710723
+NRM781446,normal,42,638,low,Asia Pacific,Individual,19,3040.100685784588
+NRM491559,normal,53,2423,low,Asia Pacific,Restaurant,10,4548.311399624737
+NRM559381,normal,32,578,low,Asia Pacific,Individual,16,4934.6467070090175
+NRM642717,normal,53,956,low,Europe,Individual,5,2842.278549085879
+NRM573417,normal,53,606,low,North America,Individual,5,4424.41408051604
+NRM226882,normal,51,3001,low,North America,Individual,6,4889.58529294245
+NRM359947,normal,47,2074,low,Asia Pacific,Restaurant,14,920.6646530694418
+NRM335612,normal,70,2260,low,Asia Pacific,Retail,10,3014.405523146987
+NRM167136,normal,30,2635,low,Europe,Retail,12,4742.0172668920895
+NRM454508,normal,49,1472,low,North America,Restaurant,11,3338.0185796663286
+NRM122056,normal,37,1264,low,Europe,Retail,7,299.6951198531166
+NRM716886,normal,63,378,low,North America,Individual,27,3286.441510779924
+NRM680828,normal,46,1689,low,Asia Pacific,Individual,18,1750.7893796784235
+NRM341292,normal,29,2721,low,Asia Pacific,Individual,22,202.2195825285367
+NRM717024,normal,40,1026,low,North America,Individual,7,499.4797988068908
+NRM330914,normal,72,399,low,North America,Individual,19,1362.646153704947
+NRM107540,normal,33,3274,low,Africa,Individual,28,2184.9173387955693
+NRM174441,normal,25,3144,low,Europe,Consulting,28,2762.172564480113
+NRM842225,normal,72,972,low,Europe,Individual,6,2484.677812981044
+NRM761759,normal,23,2747,low,Middle East,Individual,14,4961.453250069295
+NRM161733,normal,33,894,low,Asia Pacific,Retail,7,3902.4010144736044
+NRM340062,normal,57,3164,low,Asia Pacific,Retail,18,4859.835960804034
+NRM170674,normal,58,3249,low,North America,Individual,26,4366.674516235305
+NRM132938,normal,68,378,low,Europe,Individual,6,566.7813889776688
+NRM446479,normal,38,3303,low,North America,Individual,7,3318.0096562523318
+NRM174299,normal,22,1812,low,Europe,Individual,27,2323.5687527798323
+NRM639131,normal,32,3446,low,North America,Individual,14,2299.010111773875
+NRM349565,normal,33,1226,low,North America,Individual,12,3124.0104343597473
+NRM392004,normal,22,2725,low,North America,Individual,29,3067.136972459926
+NRM801474,normal,68,2385,low,Europe,Retail,28,4047.7837494552605
+NRM608993,normal,49,1755,low,Latin America,Individual,24,1421.773096433249
+NRM324643,normal,23,1333,low,Europe,Consulting,5,698.3385786491314
+NRM665427,normal,27,2897,low,Middle East,Individual,21,2964.8864321686847
+NRM238739,normal,33,854,low,Europe,Individual,15,185.16097190885023
+NRM858490,normal,46,1573,low,Europe,Individual,15,2495.348243258909
+NRM698782,normal,65,1682,low,North America,Individual,17,803.357573993025
+NRM704201,normal,71,3158,low,Asia Pacific,Individual,25,560.1135073681501
+NRM595631,normal,29,3081,low,Europe,Restaurant,26,1351.001971169316
+NRM354801,normal,22,2723,low,Africa,Individual,22,1296.321723069634
+NRM922733,normal,47,667,low,Europe,Individual,12,3998.0008213123756
+NRM595948,normal,25,3213,low,Asia Pacific,Consulting,18,2029.9355877053765
+NRM946721,normal,26,2773,low,North America,Retail,22,3064.27422118365
+NRM526833,normal,30,3597,low,Europe,Restaurant,13,543.3603069065487
+NRM299659,normal,52,853,low,North America,Retail,10,1702.4624916598696
+NRM198907,normal,59,383,low,Latin America,Retail,13,1654.2590121504531
+NRM201639,normal,66,1719,low,Europe,Individual,11,128.2174364407957
+NRM790993,normal,36,3501,low,Europe,Individual,25,1964.0565507407086
+NRM551989,normal,50,1861,low,Europe,Individual,7,1213.6211735894422
+NRM471507,normal,47,3279,low,North America,Retail,6,2371.1208146228046
+NRM544154,normal,24,2497,low,Latin America,Individual,10,4579.758928162202
+NRM531071,normal,50,1542,low,North America,Individual,20,2942.8446092139284
+NRM589710,normal,65,2128,low,Asia Pacific,Retail,10,3759.6910090655315
+NRM864491,normal,65,1255,low,Europe,Restaurant,15,137.0580873928964
+NRM156802,normal,68,3553,low,Latin America,Individual,15,1962.365093792306
+NRM806073,normal,25,1153,low,Europe,Individual,18,2480.7716200129958
+NRM785197,normal,69,737,low,North America,Individual,19,2708.075045361297
+NRM777568,normal,29,3580,low,North America,Retail,6,1435.8576035943154
+NRM203198,normal,25,2502,low,North America,Individual,16,989.047903708572
+NRM163556,normal,34,2571,low,Asia Pacific,Individual,14,1007.6193880823074
+NRM522179,normal,57,1472,low,Europe,Restaurant,5,1930.1974468880992
+NRM863587,normal,66,1750,low,North America,Individual,26,4114.025411191272
+NRM455784,normal,43,1608,low,North America,Individual,14,956.3898698541482
+NRM939482,normal,63,2996,low,Asia Pacific,Individual,9,1580.0964589904956
+NRM214576,normal,45,2943,low,Latin America,Retail,29,568.123037789874
+NRM360735,normal,57,3405,low,Europe,Individual,21,3710.681350226492
+NRM300896,normal,55,1037,low,North America,Individual,20,1630.1317516391005
+NRM299448,normal,56,1352,low,North America,Retail,13,2015.4393799370218
+NRM662336,normal,46,1134,low,North America,Individual,22,2081.1619637110316
+NRM570405,normal,60,2871,low,Africa,Individual,23,3055.775110045524
+NRM246991,normal,59,2966,low,Middle East,Retail,8,519.7254230225096
+NRM542374,normal,54,2287,low,Europe,Individual,10,1839.4818985764928
+NRM292401,normal,25,2169,low,Europe,Individual,9,442.66486797622724
+NRM392075,normal,53,2561,low,North America,Individual,7,2711.493154101543
+NRM585100,normal,24,706,low,Asia Pacific,Consulting,6,1878.4269320453607
+NRM361941,normal,56,2766,low,Europe,Individual,26,2855.254397801758
+NRM179046,normal,57,2865,low,North America,Retail,29,935.3418970521959
+NRM564656,normal,63,2858,low,Europe,Restaurant,16,1803.1004687710122
+NRM947272,normal,33,3392,low,Europe,Individual,27,2056.6479874656097
+NRM997546,normal,61,994,low,Africa,Consulting,16,1293.9179087129464
+NRM677057,normal,51,513,low,North America,Individual,12,3800.825060434359
+NRM202664,normal,54,1377,low,Latin America,Retail,6,409.2342620878358
+NRM153045,normal,57,845,low,North America,Individual,13,529.4494591428088
+NRM783823,normal,48,3173,low,Europe,Individual,24,1470.5473385102482
+NRM666847,normal,47,3632,low,Latin America,Individual,26,2535.1210662385683
+NRM976638,normal,43,1704,low,Latin America,Individual,19,2046.176009403134
+NRM115474,normal,59,958,low,Asia Pacific,Retail,14,4353.477781526507
+NRM197793,normal,27,3503,low,Asia Pacific,Individual,13,1680.3870914474344
+NRM890170,normal,56,2990,low,North America,Individual,18,4880.489984213583
+NRM989921,normal,31,1925,low,Europe,Individual,5,4621.5102335156325
+NRM347861,normal,35,3245,low,Asia Pacific,Retail,24,2562.573774670868
+NRM274389,normal,62,3314,low,North America,Individual,12,2443.346712935554
+NRM526156,normal,25,901,low,North America,Individual,16,4832.528589650778
+NRM609231,normal,53,456,low,North America,Individual,22,1460.9878563713796
+NRM604740,normal,27,3084,low,North America,Retail,27,844.9217803303758
+NRM324130,normal,72,1905,low,Asia Pacific,Individual,6,2474.547776392437
+NRM520521,normal,71,1641,low,Asia Pacific,Individual,27,1271.9825106580356
+NRM161483,normal,56,513,low,North America,Individual,23,971.0553004711162
+NRM272634,normal,37,3176,low,Asia Pacific,Retail,12,4088.454320579492
+NRM497382,normal,60,1768,low,North America,Retail,10,2187.8085810628204
+NRM102260,normal,58,1962,low,Asia Pacific,Individual,26,4154.935688277685
+NRM509386,normal,58,2409,low,Asia Pacific,Individual,6,755.6383077694948
+NRM378085,normal,42,2658,low,Asia Pacific,Individual,27,771.8375580720954
+NRM922157,normal,60,1265,low,North America,Individual,22,3183.564149452607
+NRM923267,normal,74,2750,low,North America,Individual,21,637.7073735197672
+NRM577110,normal,32,1067,low,Europe,Individual,25,2492.381571406713
+NRM399105,normal,25,910,low,North America,Retail,12,4072.3610471327047
+NRM543555,normal,50,1824,low,Latin America,Individual,14,4471.214975807148
+NRM830429,normal,62,2604,low,Asia Pacific,Individual,5,4063.5289620180074
+NRM865990,normal,69,2441,low,North America,Consulting,12,2361.2395766611976
+NRM921414,normal,32,1123,low,Asia Pacific,Restaurant,12,1212.1270023902844
+NRM682765,normal,38,3368,low,Europe,Restaurant,9,3713.4254667352793
+NRM794022,normal,22,2499,low,Asia Pacific,Individual,29,3756.415561661009
+NRM853305,normal,22,772,low,North America,Individual,24,3713.7909613491342
+NRM610311,normal,52,730,low,Africa,Consulting,23,3340.7159942450307
+NRM262316,normal,49,927,low,North America,Individual,26,3845.426044886506
+NRM299122,normal,31,1938,low,North America,Individual,21,1547.6794096393594
+NRM411120,normal,61,1285,low,Africa,Retail,7,694.7934489810915
+NRM328275,normal,25,1978,low,North America,Consulting,27,305.5609948150177
+NRM161324,normal,71,2166,low,Asia Pacific,Individual,12,658.3875101001541
+NRM707314,normal,34,2081,low,Middle East,Individual,6,727.6691571943801
+NRM871476,normal,36,2685,low,Middle East,Individual,29,1942.365160712426
+NRM668532,normal,35,2536,low,Europe,Individual,24,1279.3942879792744
+NRM163918,normal,42,3608,low,North America,Restaurant,28,4962.835462398404
+NRM884309,normal,53,1610,low,Latin America,Restaurant,13,2765.6812379954827
+NRM428838,normal,42,3434,low,Europe,Restaurant,12,2833.2848050042426
+NRM159942,normal,44,2648,low,North America,Individual,26,4924.88172367009
+NRM152578,normal,43,3272,low,North America,Individual,25,3657.301558927948
+NRM712554,normal,48,1851,low,Europe,Restaurant,17,2125.7406015467814
+NRM599948,normal,58,2089,low,Asia Pacific,Retail,26,2868.607765009179
+NRM627276,normal,50,1418,low,Latin America,Retail,9,884.3510112774077
+NRM994141,normal,63,3622,low,North America,Individual,9,4419.108820407605
+NRM656926,normal,25,3540,low,North America,Restaurant,6,1099.7746096816045
+NRM265080,normal,31,1793,low,Asia Pacific,Retail,6,1841.3843865601232
+NRM159642,normal,34,1781,low,Europe,Individual,26,4180.134299800511
+NRM632496,normal,35,1402,low,Asia Pacific,Retail,24,1701.9649200565875
+NRM184002,normal,72,1379,low,Europe,Individual,8,1988.3418269320728
+NRM992697,normal,25,1408,low,Asia Pacific,Individual,9,3348.905822052412
+NRM294851,normal,61,1235,low,North America,Retail,8,988.4644716349757
+NRM171849,normal,66,3456,low,Europe,Restaurant,18,3644.6833515002027
+NRM723939,normal,58,700,low,North America,Retail,28,3057.0895663226283
+NRM171262,normal,55,958,low,Asia Pacific,Individual,23,2541.4528430909227
+NRM808011,normal,67,2623,low,North America,Individual,10,1128.225774796406
+NRM346629,normal,57,2431,low,Europe,Individual,27,3703.977471788934
+NRM523389,normal,54,1534,low,Europe,Individual,19,4991.9028058254535
+NRM225710,normal,66,525,low,Europe,Retail,20,973.4370878327437
+NRM697347,normal,36,2098,low,Africa,Retail,11,2902.174129013214
+NRM358175,normal,37,1201,low,North America,Individual,22,909.9411437538553
+NRM707040,normal,64,2250,low,Latin America,Individual,21,4655.122922090853
+NRM723398,normal,72,3169,low,North America,Restaurant,23,1946.8794072082226
+NRM141672,normal,58,2368,low,Latin America,Individual,9,3559.4931375537203
+NRM749468,normal,47,1002,low,Asia Pacific,Individual,5,3923.0440108075013
+NRM185965,normal,57,2226,low,North America,Individual,16,763.2350031606591
+NRM539589,normal,52,1984,low,Asia Pacific,Consulting,28,379.5681336411462
+NRM789305,normal,51,1730,low,North America,Individual,18,1322.77637926258
+NRM712024,normal,37,3618,low,Europe,Restaurant,10,420.29417206548766
+NRM692683,normal,66,1616,low,North America,Individual,15,782.3023184762163
+NRM648177,normal,25,1054,low,Europe,Individual,19,206.93464419989857
+NRM431737,normal,32,1536,low,North America,Restaurant,25,356.06360850151646
+NRM373432,normal,65,1260,low,Asia Pacific,Individual,25,1356.9973059768142
+NRM314181,normal,24,2118,low,North America,Individual,23,4862.826115194532
+NRM802258,normal,33,2857,low,North America,Individual,8,2148.150675965373
+NRM850981,normal,28,962,low,Europe,Individual,6,2079.4915940000865
+NRM429445,normal,64,2069,low,Asia Pacific,Individual,6,500.45419415921344
+NRM350280,normal,27,3022,low,Europe,Individual,6,3354.520781076545
+NRM378517,normal,23,3254,low,Europe,Individual,11,2772.6161600938367
+NRM515011,normal,45,1682,low,Latin America,Individual,23,3952.763176981762
+NRM237235,normal,53,2803,low,Latin America,Individual,8,3808.0823778743115
+NRM804318,normal,43,2043,low,North America,Restaurant,26,891.9370753007701
+NRM776856,normal,35,3413,low,Europe,Retail,21,233.12036400524312
+NRM414569,normal,46,2148,low,Europe,Consulting,5,2014.5689915067048
+NRM579434,normal,56,1138,low,Europe,Individual,22,557.6990626789484
+NRM431535,normal,26,671,low,North America,Individual,12,1506.9759946144202
+NRM888387,normal,49,1685,low,Europe,Retail,27,3249.1058225948755
+NRM176066,normal,36,2332,low,Latin America,Individual,24,2833.3189404530867
+NRM109767,normal,23,3187,low,Asia Pacific,Individual,22,927.385612720662
+NRM580547,normal,59,3341,low,Europe,Individual,12,4480.549579038565
+NRM751332,normal,69,977,low,Europe,Retail,26,4298.682286767961
+NRM690341,normal,30,1912,low,Asia Pacific,Individual,5,2147.0287984479883
+NRM204837,normal,74,1034,low,Asia Pacific,Individual,10,4900.934043487157
+NRM176819,normal,48,1925,low,North America,Individual,24,4462.26445978723
+NRM663750,normal,26,591,low,North America,Restaurant,24,4599.219198151599
+NRM323508,normal,27,2623,low,Asia Pacific,Consulting,6,4126.020798781311
+NRM630458,normal,65,2869,low,Europe,Individual,7,4411.127378363307
+NRM378082,normal,51,1350,low,North America,Individual,5,1275.3831525041292
+NRM238890,normal,73,2958,low,North America,Individual,15,3290.623165920203
+NRM465962,normal,69,1260,low,Europe,Restaurant,15,4234.312899392949
+NRM172132,normal,48,1295,low,North America,Retail,6,1693.009675615325
+NRM356150,normal,61,2660,low,North America,Individual,13,3310.883807489125
+NRM487477,normal,22,1332,low,North America,Individual,7,3501.337810198172
+NRM398830,normal,46,2203,low,North America,Individual,7,3839.460927168558
+NRM265409,normal,74,2384,low,Latin America,Retail,7,389.56006138344105
+NRM559469,normal,36,2622,low,Asia Pacific,Restaurant,27,928.4972447443633
+NRM974244,normal,55,3300,low,Europe,Individual,25,2778.5762789201635
+NRM669605,normal,56,2047,low,Africa,Individual,24,188.20043583155342
+NRM837715,normal,61,3268,low,North America,Consulting,26,4305.874216315692
+NRM417212,normal,40,3359,low,Latin America,Retail,24,4910.813596977076
+NRM741390,normal,35,3499,low,Europe,Retail,29,1479.4538722331567
+NRM946305,normal,68,3424,low,North America,Retail,8,573.01890395766
+NRM785743,normal,51,629,low,North America,Individual,29,4140.2205596264575
+NRM654634,normal,74,2127,low,North America,Retail,13,335.8998962939319
+NRM108203,normal,25,1352,low,Latin America,Retail,18,1767.988632412867
+NRM800305,normal,37,2889,low,Latin America,Individual,16,2955.753491909099
+NRM956795,normal,67,1950,low,Europe,Retail,20,4173.730220489979
+NRM681542,normal,24,3425,low,North America,Consulting,8,4355.902380969415
+NRM413921,normal,55,1092,low,Africa,Individual,27,2209.094310572852
+NRM795613,normal,33,2850,low,Europe,Retail,13,1769.9969289702483
+NRM208618,normal,73,3017,low,North America,Consulting,10,2999.316095300995
+NRM240814,normal,50,543,low,North America,Individual,8,1984.1055054595815
+NRM377312,normal,66,943,low,Asia Pacific,Consulting,6,2417.1959507734337
+NRM221035,normal,62,2157,low,North America,Individual,26,1346.5187461250503
+NRM212235,normal,38,2985,low,Europe,Individual,12,1270.3976359694454
+NRM878480,normal,63,805,low,North America,Individual,12,2401.7444386543502
+NRM680097,normal,69,3161,low,Europe,Individual,10,4285.266388487471
+NRM262998,normal,70,1578,low,Latin America,Restaurant,5,1760.4171817598829
+NRM385577,normal,42,2333,low,North America,Individual,26,4665.5932252208
+NRM395442,normal,30,1732,low,North America,Retail,28,2704.837376561711
+NRM734210,normal,60,547,low,Latin America,Individual,15,319.7824833154864
+NRM320861,normal,32,1721,low,Middle East,Individual,12,2166.9580748402736
+NRM852470,normal,33,948,low,Middle East,Retail,16,3405.578479289459
+NRM459536,normal,54,3014,low,Africa,Restaurant,12,4328.1144642708205
+NRM313487,normal,67,1731,low,Asia Pacific,Restaurant,21,3058.597719452
+NRM820892,normal,39,2046,low,North America,Individual,8,1908.3598066284912
+NRM765046,normal,40,2139,low,Europe,Retail,5,2080.774675256625
+NRM994343,normal,72,3067,low,Asia Pacific,Individual,13,3267.605441610574
+NRM376807,normal,72,2231,low,Europe,Individual,23,4575.10604312356
+NRM629959,normal,60,1928,low,North America,Retail,25,4522.021205700625
+NRM612262,normal,59,751,low,Europe,Individual,21,3504.9236310122
+NRM363319,normal,33,2831,low,Europe,Individual,19,314.3214543138421
+NRM987204,normal,42,938,low,Europe,Individual,27,4101.943692536868
+NRM153266,normal,59,2184,low,Europe,Restaurant,8,3397.5364497327187
+NRM196781,normal,30,2386,low,Asia Pacific,Individual,6,1982.7741386731686
+NRM765095,normal,24,1544,low,Europe,Retail,27,1662.4474097735804
+NRM544151,normal,69,3084,low,Europe,Retail,8,2025.5737041919272
+NRM969634,normal,45,1043,low,Europe,Individual,11,798.7113060013528
+NRM390120,normal,22,3629,low,Middle East,Individual,14,3264.529692803773
+NRM146228,normal,49,1807,low,North America,Individual,15,1624.9657258106286
+NRM103717,normal,59,940,low,Asia Pacific,Individual,24,2943.085442046644
+NRM449759,normal,59,1197,low,North America,Individual,22,2479.3895283310494
+NRM908577,normal,45,807,low,Europe,Individual,18,251.6833755047833
+NRM237174,normal,48,1622,low,Europe,Individual,19,2490.4708662427915
+NRM768061,normal,63,2897,low,Latin America,Individual,9,2422.631499567464
+NRM374680,normal,27,2096,low,Africa,Individual,17,3073.698973726957
+NRM269430,normal,73,2301,low,Europe,Individual,8,4902.534062827458
+NRM877236,normal,62,2717,low,Europe,Individual,25,4184.884813494169
+NRM563298,normal,72,3311,low,North America,Individual,23,968.137533832141
+NRM678478,normal,42,3354,low,Asia Pacific,Individual,15,2832.7732486252153
+NRM839945,normal,72,1992,low,Europe,Consulting,17,3168.5481749632127
+NRM548462,normal,32,1360,low,Europe,Consulting,22,3154.6891949812566
+NRM688153,normal,45,3174,low,Europe,Retail,12,293.35171116540664
+NRM110139,normal,38,3025,low,Europe,Individual,25,3035.6908666975933
+NRM217308,normal,66,3576,low,North America,Retail,11,711.6219884375566
+NRM178898,normal,38,1572,low,North America,Restaurant,16,4851.077861555667
+NRM824586,normal,72,2559,low,Europe,Individual,24,4331.382860321271
+NRM256294,normal,57,3538,low,Europe,Individual,27,1994.0484834328365
+NRM672092,normal,32,1068,low,Europe,Individual,23,4482.817528438738
+NRM137778,normal,48,446,low,Europe,Retail,19,2910.291862132309
+NRM975136,normal,66,527,low,North America,Individual,24,115.52245804543851
+NRM487151,normal,38,1245,low,North America,Individual,10,1354.633069014276
+NRM710805,normal,26,1401,low,Africa,Individual,27,193.66886270584376
+NRM679364,normal,53,386,low,Asia Pacific,Retail,26,2683.408286115021
+NRM255287,normal,42,2364,low,Latin America,Individual,7,1132.4543229492956
+NRM550664,normal,51,3599,low,Africa,Retail,21,540.0795559855926
+NRM233636,normal,51,3059,low,North America,Individual,9,3728.333046572244
+NRM143860,normal,58,505,low,Asia Pacific,Retail,13,3853.9680706983722
+NRM423232,normal,57,911,low,Asia Pacific,Individual,13,3643.4324836766846
+NRM482364,normal,35,778,low,North America,Individual,12,643.8906840774426
+NRM934794,normal,34,2380,low,North America,Consulting,10,1567.8718219739822
+NRM141832,normal,61,2045,low,Europe,Retail,20,2443.473432556595
+NRM475190,normal,23,814,low,Asia Pacific,Retail,6,1476.9220446526965
+NRM320281,normal,29,1603,low,Middle East,Individual,26,1675.3289361146217
+NRM815198,normal,74,2733,low,Europe,Individual,17,3057.1161706125554
+NRM361650,normal,74,1669,low,North America,Restaurant,27,4347.97399492423
+NRM799330,normal,31,3446,low,Latin America,Individual,24,3444.8243839946717
+NRM207786,normal,35,3614,low,Asia Pacific,Restaurant,28,1520.8535828236843
+NRM470858,normal,51,3115,low,North America,Consulting,12,1429.9059641889005
+NRM918011,normal,52,1214,low,Latin America,Retail,13,3768.36164721838
+NRM687080,normal,36,1829,low,North America,Individual,22,1453.2308333224073
+NRM526117,normal,59,2621,low,North America,Restaurant,13,1767.8166568982372
+NRM750810,normal,65,1253,low,North America,Consulting,29,1865.1462021220966
+NRM885884,normal,40,501,low,Latin America,Individual,8,4545.279125647049
+NRM262060,normal,72,2553,low,Europe,Individual,28,4823.98424080153
+NRM348237,normal,58,2813,low,Asia Pacific,Individual,5,4657.837730648281
+NRM270395,normal,46,3044,low,Asia Pacific,Individual,25,3593.9256481081616
+NRM938742,normal,34,1489,low,Africa,Retail,21,3412.9303339306143
+NRM950155,normal,46,1994,low,North America,Individual,23,3256.331185231988
+NRM285652,normal,63,1277,low,Europe,Consulting,13,2432.241881957114
+NRM532322,normal,69,2046,low,Asia Pacific,Retail,13,356.5395989186148
+NRM125990,normal,62,1401,low,Europe,Restaurant,6,1138.7708680234246
+NRM288073,normal,30,3602,low,Europe,Restaurant,5,4001.578918257986
+NRM872343,normal,44,1561,low,North America,Individual,12,3293.034826338655
+NRM448321,normal,39,3439,low,North America,Retail,25,3442.7500150703913
+NRM920391,normal,22,720,low,North America,Individual,17,384.65056519371393
+NRM531712,normal,31,2977,low,North America,Restaurant,18,1285.255529415315
+NRM941204,normal,59,2180,low,Latin America,Retail,18,2126.8491071013127
+NRM802448,normal,46,751,low,Europe,Individual,26,1406.7084636436903
+NRM870763,normal,50,535,low,Latin America,Individual,10,3835.3142569074994
+NRM950132,normal,49,3196,low,Asia Pacific,Individual,16,715.1960523370016
+NRM360222,normal,74,2070,low,Asia Pacific,Restaurant,6,990.5220344763686
+NRM379766,normal,28,2124,low,North America,Retail,11,1805.6684065246116
+NRM266931,normal,33,1916,low,Europe,Retail,17,4873.55277470015
+NRM925622,normal,68,671,low,North America,Restaurant,5,3070.118168174051
+NRM835343,normal,29,3481,low,Europe,Individual,7,3579.6636158105225
+NRM213346,normal,50,3022,low,Asia Pacific,Individual,27,3391.047179575546
+NRM501124,normal,25,1990,low,Africa,Individual,28,4957.506717664681
+NRM140605,normal,71,3579,low,Europe,Retail,21,1204.3682132331526
+NRM593554,normal,65,3635,low,North America,Retail,14,1644.220491749511
+NRM333238,normal,40,2679,low,Africa,Individual,8,2002.0119600222781
+NRM309267,normal,49,2359,low,North America,Individual,24,1752.966690983415
+NRM956253,normal,68,523,low,Asia Pacific,Individual,21,4659.973343748032
+NRM582662,normal,41,2208,low,North America,Individual,5,4793.877193178175
+NRM466643,normal,48,2427,low,Europe,Consulting,18,473.5721680704659
+NRM420015,normal,59,3010,low,Asia Pacific,Individual,18,2220.7984108263995
+NRM960394,normal,51,2415,low,North America,Individual,16,4498.605896121988
+NRM933980,normal,65,3597,low,North America,Consulting,22,4283.546116352868
+NRM338651,normal,49,1970,low,North America,Retail,20,2092.702942993057
+NRM333752,normal,47,2858,low,Europe,Individual,29,4604.998282406096
+NRM124813,normal,44,2723,low,North America,Individual,10,1031.5274839402655
+NRM792094,normal,72,1161,low,Middle East,Consulting,15,2036.509038918854
+NRM302511,normal,37,2862,low,Africa,Individual,14,2436.810521693053
+NRM517821,normal,53,2384,low,North America,Retail,11,3928.6093190105908
+NRM444207,normal,41,3166,low,Asia Pacific,Individual,13,4193.498371126417
+NRM392136,normal,57,2001,low,Europe,Individual,15,325.67799753078623
+NRM172792,normal,63,2152,low,North America,Individual,20,567.4564588347321
+NRM910891,normal,58,3591,low,North America,Individual,17,102.16962904231863
+NRM392683,normal,57,1826,low,Europe,Consulting,23,2523.9084289972884
+NRM468203,normal,46,3017,low,Europe,Retail,24,3795.8983694004114
+NRM772642,normal,56,3130,low,Asia Pacific,Consulting,24,2911.8221451121153
+NRM634150,normal,39,2736,low,Latin America,Consulting,17,4874.423969528362
+NRM519093,normal,44,1654,low,Latin America,Retail,9,276.4922096279893
+NRM812526,normal,38,2766,low,Asia Pacific,Individual,8,2949.949235647048
+NRM984642,normal,32,3236,low,Europe,Individual,23,1484.2307232669762
+NRM662262,normal,28,2403,low,Middle East,Restaurant,25,3839.230981646411
+NRM447235,normal,44,1238,low,Latin America,Individual,17,2996.5384859667306
+NRM128941,normal,62,1756,low,North America,Restaurant,18,448.67559734982075
+NRM220944,normal,25,2278,low,Middle East,Individual,7,565.7599231101947
+NRM373903,normal,48,404,low,North America,Retail,28,1827.752769051405
+NRM287241,normal,25,654,low,Latin America,Individual,28,1521.1430488796389
+NRM708792,normal,66,945,low,Europe,Individual,13,100.05701030129408
+NRM378361,normal,27,1745,low,Asia Pacific,Individual,11,1590.5737262177763
+NRM140115,normal,41,1903,low,Latin America,Individual,8,4837.542949016498
+NRM213668,normal,59,1899,low,Asia Pacific,Individual,17,2170.8830653666846
+NRM725550,normal,71,3114,low,Latin America,Individual,23,989.9084420073531
+NRM555673,normal,69,3483,low,Latin America,Consulting,28,3836.16613393021
+NRM462479,normal,42,2356,low,Asia Pacific,Individual,14,3575.6720595157867
+NRM863934,normal,55,3179,low,Europe,Individual,14,2461.1506484456213
+NRM924629,normal,38,1948,low,North America,Retail,25,2844.449317472638
+NRM428914,normal,70,2221,low,Asia Pacific,Individual,21,4671.331826591393
+NRM557592,normal,45,3630,low,Asia Pacific,Retail,10,4612.873153373222
+NRM735656,normal,44,1766,low,Asia Pacific,Restaurant,21,251.203731109555
+NRM636265,normal,62,2889,low,North America,Individual,24,4894.774795106789
+NRM221263,normal,24,925,low,Asia Pacific,Individual,27,2791.6178802525096
+NRM503906,normal,38,3375,low,Europe,Individual,8,1983.3396887682609
+NRM704596,normal,40,407,low,Latin America,Individual,5,4854.25983765768
+NRM299312,normal,25,3140,low,Asia Pacific,Restaurant,29,2718.0237042790113
+NRM367095,normal,61,2751,low,Europe,Individual,20,4326.938308630977
+NRM146542,normal,34,2220,low,Asia Pacific,Consulting,20,745.4036400375585
+NRM843215,normal,31,3525,low,North America,Individual,27,1651.093359812563
+NRM557239,normal,43,1247,low,Europe,Individual,18,3161.883088074295
+NRM101773,normal,24,3427,low,Middle East,Individual,20,897.7937434166325
+NRM645175,normal,54,477,low,North America,Individual,9,1829.4966669165472
+NRM945687,normal,38,3314,low,North America,Retail,18,3066.973356417795
+NRM664607,normal,54,1706,low,North America,Individual,26,1729.035170028689
+NRM820221,normal,23,2971,low,Europe,Consulting,24,3390.247828469314
+NRM854377,normal,36,579,low,North America,Individual,26,3045.4032085592085
+NRM877991,normal,41,3465,low,North America,Consulting,13,4903.806830616707
+NRM872840,normal,47,1962,low,Europe,Individual,10,2784.1450024782653
+NRM803204,normal,49,1706,low,Europe,Individual,24,2171.3703207802682
+NRM306606,normal,48,2077,low,Europe,Individual,14,2632.270701727975
+NRM481913,normal,56,572,low,Asia Pacific,Individual,10,4845.832925329471
+NRM552248,normal,64,583,low,North America,Consulting,13,551.1282318041297
+NRM173372,normal,65,767,low,Asia Pacific,Retail,25,174.04235265092768
+NRM796503,normal,24,1522,low,North America,Retail,5,3393.074589886042
+NRM446239,normal,27,1109,low,Europe,Individual,6,4343.868604697288
+NRM753425,normal,22,3007,low,North America,Individual,19,1144.11654255556
+NRM429164,normal,72,924,low,North America,Retail,8,3535.584012645621
+NRM795612,normal,46,2393,low,Europe,Individual,8,4687.708983124774
+NRM989208,normal,30,3600,low,Middle East,Individual,13,4215.027872655691
+NRM230679,normal,63,3340,low,Asia Pacific,Consulting,21,2540.397925978658
+NRM854717,normal,48,2466,low,North America,Restaurant,25,4581.288452857939
+NRM414910,normal,49,731,low,North America,Individual,13,2248.0864021507305
+NRM631756,normal,40,1636,low,North America,Individual,13,1285.9081919062983
+NRM424308,normal,41,1881,low,North America,Individual,27,345.0910264234499
+NRM799287,normal,73,1435,low,North America,Individual,18,1426.9510073811657
+NRM528231,normal,69,1166,low,North America,Individual,7,1155.1874687745078
+NRM442027,normal,54,695,low,Europe,Individual,27,4208.609985830822
+NRM521947,normal,59,3051,low,Latin America,Consulting,17,3955.170566449924
+NRM831076,normal,24,2358,low,Europe,Individual,18,1528.3291305262421
+NRM410016,normal,67,854,low,Europe,Individual,15,2737.826521952996
+NRM681343,normal,70,3208,low,Middle East,Restaurant,22,3958.196431086431
+NRM233470,normal,42,3182,low,Asia Pacific,Individual,10,2195.246535146353
+NRM301158,normal,57,2007,low,Middle East,Individual,6,2550.3925795307546
+NRM540869,normal,32,3621,low,North America,Individual,11,375.26277900245117
+NRM797229,normal,45,3400,low,North America,Retail,18,156.31311916076504
+NRM497562,normal,22,2002,low,North America,Individual,9,3953.9596737151505
+NRM810219,normal,49,2433,low,Asia Pacific,Retail,19,3457.158118384972
+NRM884475,normal,56,1328,low,North America,Individual,28,2811.5629205421633
+NRM282480,normal,46,641,low,Asia Pacific,Individual,28,3967.5349567664593
+NRM745414,normal,67,2956,low,Latin America,Retail,18,1836.6822490859688
+NRM696750,normal,63,678,low,Middle East,Restaurant,25,4527.4363728193985
+NRM415568,normal,27,3423,low,Latin America,Individual,13,4308.202178723958
+NRM525800,normal,63,451,low,Latin America,Restaurant,7,2131.128717602282
+NRM674553,normal,43,2869,low,North America,Retail,17,3637.4532148268295
+NRM974224,normal,73,859,low,Europe,Individual,27,109.7614625734443
+NRM100425,normal,23,849,low,Asia Pacific,Individual,26,2752.7110897706166
+NRM418635,normal,51,1085,low,Europe,Retail,23,1283.5305243382406
+NRM400850,normal,31,2395,low,North America,Individual,13,1138.2822191565344
+NRM320392,normal,32,2618,low,North America,Individual,23,1744.8017818913922
+NRM550770,normal,49,2052,low,Asia Pacific,Individual,19,3793.9388618009325
+NRM923927,normal,54,383,low,Asia Pacific,Individual,14,941.3001477567029
+NRM708158,normal,71,1742,low,Europe,Restaurant,6,208.49322981588432
+NRM736130,normal,68,569,low,Asia Pacific,Individual,11,799.9256275902261
+NRM786508,normal,47,2429,low,North America,Individual,21,3426.5988528814187
+NRM437902,normal,70,1491,low,Europe,Individual,21,4300.813621568121
+NRM587575,normal,24,3643,low,Latin America,Individual,20,148.89600562640192
+NRM563246,normal,49,1461,low,Europe,Restaurant,29,4383.436342569427
+NRM563638,normal,62,2911,low,North America,Individual,11,2311.3411538433493
+NRM808446,normal,40,1023,low,Latin America,Restaurant,7,165.5016479710386
+NRM324082,normal,67,906,low,Asia Pacific,Individual,20,1118.9861605180108
+NRM636004,normal,29,2946,low,Europe,Individual,12,4843.522479048719
+NRM596171,normal,49,2528,low,Asia Pacific,Individual,6,2615.5042301020862
+NRM932291,normal,36,896,low,Africa,Individual,7,1178.5454969332905
+NRM934692,normal,35,2220,low,Asia Pacific,Retail,8,2374.768746722202
+NRM871711,normal,73,3255,low,Asia Pacific,Retail,15,4173.701760487653
+NRM277934,normal,70,3317,low,North America,Restaurant,28,2787.2538986684567
+NRM790855,normal,46,2320,low,Asia Pacific,Individual,9,2653.2586334911007
+NRM188914,normal,60,1868,low,Europe,Individual,9,1115.4872688675036
+NRM397571,normal,65,2983,low,North America,Individual,10,3774.891212415147
+NRM640490,normal,38,3139,low,Asia Pacific,Individual,8,4277.66627919788
+NRM796101,normal,74,1858,low,Asia Pacific,Individual,17,3592.6106134624715
+NRM763686,normal,37,980,low,North America,Individual,6,2181.769130053626
+NRM749342,normal,33,1014,low,Europe,Individual,21,2964.8736418125413
+NRM451470,normal,71,2808,low,Europe,Individual,21,1432.5355931503989
+NRM197923,normal,59,2917,low,North America,Consulting,5,2690.7496535823348
+NRM958179,normal,53,520,low,Europe,Individual,8,4136.460239415703
+NRM887625,normal,31,3411,low,Asia Pacific,Restaurant,27,4918.19771841049
+NRM346277,normal,45,1728,low,Asia Pacific,Retail,5,2218.4965093764017
+NRM805477,normal,22,2987,low,North America,Individual,7,4139.2017702084195
+NRM425498,normal,67,1054,low,Asia Pacific,Individual,18,4451.779125776776
+NRM335552,normal,61,819,low,Africa,Restaurant,6,3765.2232082198766
+NRM945742,normal,54,1570,low,Asia Pacific,Consulting,24,4525.1592665950375
+NRM308802,normal,52,1479,low,Latin America,Restaurant,17,2382.546190793311
+NRM254511,normal,52,2665,low,North America,Consulting,15,1866.091452993282
+NRM125611,normal,72,1314,low,Europe,Individual,20,1629.7622042662579
+HRK148458,high_risk,46,345,high,Africa,Casino,68,39303.6181025432
+HRK356736,high_risk,56,1898,high,Africa,Cryptocurrency,77,30352.790782068805
+HRK598216,high_risk,40,888,high,Middle East,Jewelry,29,22576.7123411802
+HRK740967,high_risk,28,1776,high,Middle East,Cryptocurrency,62,35425.642891473064
+HRK991014,high_risk,49,1479,high,Africa,Cryptocurrency,74,32833.717642318356
+HRK905819,high_risk,29,1766,high,Middle East,Import/Export,69,34227.90183683513
+HRK176365,high_risk,44,1881,high,Middle East,Cryptocurrency,51,25464.39541486975
+HRK577538,high_risk,42,1358,high,Africa,Casino,94,12531.066450655144
+HRK534572,high_risk,29,1546,high,Middle East,Cryptocurrency,73,17387.969605333707
+HRK760356,high_risk,43,1012,high,Africa,Import/Export,84,13071.020463015844
+HRK703634,high_risk,36,585,high,Latin America,Casino,66,25380.998162042484
+HRK303880,high_risk,38,1637,high,Latin America,Money Service Business,78,36483.78063299548
+HRK853240,high_risk,36,1499,high,Latin America,Import/Export,57,29117.07854834532
+HRK830180,high_risk,50,1297,high,Middle East,Jewelry,85,30767.325479691008
+HRK502630,high_risk,62,1641,high,Latin America,Cryptocurrency,91,9270.87985703058
+HRK618392,high_risk,46,839,high,Middle East,Casino,49,46205.25045177424
+HRK519066,high_risk,44,807,high,Africa,Cryptocurrency,26,27570.906496307678
+HRK355836,high_risk,51,1384,high,Africa,Money Service Business,54,14024.884003036992
+HRK254739,high_risk,61,1437,high,Middle East,Money Service Business,27,47334.79848602755
+HRK787926,high_risk,54,545,high,Africa,Jewelry,31,41763.82582723265
+HRK821024,high_risk,54,1104,high,Africa,Cryptocurrency,69,23729.81264804072
+HRK105814,high_risk,58,942,high,Latin America,Casino,51,12537.099009234847
+HRK887443,high_risk,61,1287,high,Africa,Jewelry,59,10149.418337556135
+HRK907451,high_risk,47,539,high,Africa,Jewelry,75,10835.55402009059
+HRK211764,high_risk,63,1743,high,Middle East,Import/Export,32,7815.417899875321
+HRK916232,high_risk,61,1997,high,Latin America,Import/Export,83,8441.597997469089
+HRK545798,high_risk,48,1579,high,Africa,Casino,50,18608.87800753414
+HRK329471,high_risk,52,1505,high,Latin America,Jewelry,83,31131.458804942824
+HRK284430,high_risk,64,1331,high,Latin America,Cryptocurrency,63,17313.818803734724
+HRK943170,high_risk,47,1348,high,Middle East,Casino,76,37183.39046511086
+HRK829716,high_risk,58,956,high,Latin America,Jewelry,67,29625.68841892894
+HRK643118,high_risk,36,1115,high,Middle East,Casino,34,7023.264871619801
+HRK587115,high_risk,63,1728,high,Middle East,Money Service Business,59,21716.026818096954
+HRK152657,high_risk,51,1160,high,Latin America,Jewelry,99,34522.47598890668
+HRK684482,high_risk,36,1631,high,Latin America,Cryptocurrency,79,21263.17005802339
+HRK361303,high_risk,59,227,high,Latin America,Import/Export,78,39310.11314036908
+HRK989545,high_risk,64,1056,high,Middle East,Money Service Business,25,30547.729306897458
+HRK227253,high_risk,50,449,high,Africa,Import/Export,58,46954.52412029949
+HRK578634,high_risk,37,1875,high,Africa,Import/Export,72,17538.937840176637
+HRK239816,high_risk,52,1846,high,Middle East,Casino,99,17856.840544740066
+HRK940346,high_risk,62,891,high,Africa,Money Service Business,25,21854.670952081156
+HRK587213,high_risk,59,1085,high,Africa,Cryptocurrency,95,30055.320991768458
+HRK800005,high_risk,55,528,high,Africa,Jewelry,81,49483.4741597951
+HRK656932,high_risk,55,945,high,Middle East,Casino,41,38825.427741031366
+HRK686075,high_risk,44,679,high,Middle East,Money Service Business,73,16941.655022088897
+HRK724377,high_risk,25,1090,high,Middle East,Money Service Business,43,26875.871834671583
+HRK432711,high_risk,51,288,high,Africa,Cryptocurrency,78,31547.654726081393
+HRK891937,high_risk,61,1700,high,Middle East,Jewelry,35,32686.41439770863
+HRK564071,high_risk,42,1714,high,Middle East,Jewelry,32,35347.984331629166
+HRK742412,high_risk,54,840,high,Africa,Money Service Business,59,15203.353298312506
+HRK954596,high_risk,39,1404,high,Latin America,Import/Export,72,7260.935442034196
+HRK854213,high_risk,54,596,high,Middle East,Import/Export,28,42763.11777411344
+HRK629298,high_risk,25,1247,high,Africa,Cryptocurrency,99,15686.535053851587
+HRK547470,high_risk,39,319,high,Middle East,Jewelry,97,46173.46392850859
+HRK970914,high_risk,32,251,high,Africa,Import/Export,84,32484.68288082674
+HRK674485,high_risk,35,794,high,Africa,Money Service Business,51,30040.529262145537
+HRK567574,high_risk,45,603,high,Africa,Casino,56,38724.17026913639
+HRK266889,high_risk,32,1436,high,Middle East,Cryptocurrency,30,18163.23914643134
+HRK879779,high_risk,45,1318,high,Latin America,Cryptocurrency,47,31878.15891590612
+HRK597732,high_risk,30,1350,high,Latin America,Import/Export,85,32882.716712521506
+HRK571932,high_risk,61,1574,high,Latin America,Casino,68,17672.721894753427
+HRK371782,high_risk,37,487,high,Latin America,Money Service Business,79,49554.89807390896
+HRK888295,high_risk,59,1953,high,Africa,Import/Export,20,9004.5371685356
+HRK359249,high_risk,64,788,high,Africa,Import/Export,91,47254.83899386899
+HRK980660,high_risk,28,1695,high,Africa,Money Service Business,35,36955.96882540418
+HRK768636,high_risk,55,651,high,Africa,Jewelry,44,46095.47061896553
+HRK390782,high_risk,27,1453,high,Latin America,Casino,92,38802.97116293192
+HRK903013,high_risk,64,1213,high,Africa,Cryptocurrency,43,41783.35312877492
+HRK915451,high_risk,51,643,high,Middle East,Cryptocurrency,95,43923.31723018409
+HRK646622,high_risk,50,1890,high,Latin America,Casino,31,45912.88688241136
+HRK608136,high_risk,47,1891,high,Africa,Money Service Business,85,13308.460580631614
+HRK757193,high_risk,45,1164,high,Middle East,Import/Export,81,26861.784301068416
+HRK350867,high_risk,62,1968,high,Africa,Casino,71,38024.740886114356
+HRK387936,high_risk,49,968,high,Middle East,Casino,24,20980.924148921564
+HRK561239,high_risk,47,270,high,Latin America,Jewelry,42,36486.04590764188
+HRK181247,high_risk,64,1445,high,Latin America,Money Service Business,71,5486.498763583835
+HRK848206,high_risk,35,752,high,Middle East,Casino,72,25879.176417509934
+HRK399607,high_risk,62,1400,high,Middle East,Cryptocurrency,21,38249.00047098647
+HRK345884,high_risk,54,1982,high,Africa,Casino,96,30558.843379223625
+HRK384913,high_risk,52,785,high,Middle East,Casino,75,20638.345789118957
+HRK452161,high_risk,55,1767,high,Middle East,Import/Export,20,25606.804749531257
+HRK435239,high_risk,64,1816,high,Africa,Money Service Business,84,11204.837121020468
+HRK666390,high_risk,45,1538,high,Middle East,Cryptocurrency,99,21315.190845159254
+HRK184491,high_risk,41,708,high,Latin America,Casino,32,8810.975384388807
+HRK245095,high_risk,41,675,high,Latin America,Jewelry,25,30455.967746345257
+HRK258157,high_risk,38,1442,high,Middle East,Jewelry,46,40167.7541483982
+HRK342495,high_risk,55,1448,high,Africa,Import/Export,25,35563.961804052626
+HRK501641,high_risk,47,1420,high,Latin America,Casino,66,26401.828631990375
+HRK827659,high_risk,44,569,high,Latin America,Cryptocurrency,83,32865.75644241118
+HRK260227,high_risk,28,964,high,Middle East,Jewelry,26,23795.014811764762
+HRK840734,high_risk,39,198,high,Africa,Cryptocurrency,54,8456.13717414897
+HRK324345,high_risk,43,1815,high,Africa,Casino,67,7105.363023729584
+HRK167348,high_risk,48,1520,high,Middle East,Money Service Business,90,16490.136819345986
+HRK535020,high_risk,25,534,high,Middle East,Casino,33,17514.478177986042
+HRK527398,high_risk,39,1954,high,Latin America,Import/Export,59,12056.571739256256
+HRK446954,high_risk,52,1393,high,Middle East,Casino,47,28322.427940144087
+HRK668969,high_risk,26,1490,high,Africa,Cryptocurrency,50,48115.31040137452
+HRK588557,high_risk,26,1979,high,Africa,Import/Export,76,17856.481732014403
+HRK535970,high_risk,54,1661,high,Latin America,Casino,88,40143.373863999586
+HRK165290,high_risk,63,751,high,Latin America,Cryptocurrency,64,34612.47427375494
+HRK316881,high_risk,54,1837,high,Middle East,Import/Export,23,39565.7680271397
+HRK973349,high_risk,30,467,high,Latin America,Casino,34,26780.925762923183
+HRK540552,high_risk,56,636,high,Middle East,Casino,25,19634.50383242951
+HRK508396,high_risk,27,1309,high,Africa,Cryptocurrency,36,36351.28001465369
+HRK907189,high_risk,28,1028,high,Middle East,Cryptocurrency,24,43573.62456768149
+HRK712451,high_risk,30,1494,high,Latin America,Money Service Business,41,40248.40923302215
+HRK829308,high_risk,35,1152,high,Africa,Casino,22,49893.027001312345
+HRK120480,high_risk,36,778,high,Latin America,Money Service Business,37,10417.441045509006
+HRK998348,high_risk,33,1994,high,Latin America,Cryptocurrency,66,23893.191395884292
+HRK902784,high_risk,47,209,high,Middle East,Import/Export,44,40874.49826604433
+HRK703655,high_risk,54,554,high,Africa,Money Service Business,44,34777.34071897805
+HRK498858,high_risk,58,1981,high,Africa,Cryptocurrency,30,42356.794234906316
+HRK600149,high_risk,46,864,high,Africa,Money Service Business,83,17595.16935108921
+HRK106182,high_risk,26,1023,high,Middle East,Casino,73,14616.416370664778
+HRK468845,high_risk,40,420,high,Africa,Casino,78,31246.357654065054
+HRK413118,high_risk,30,1132,high,Africa,Casino,95,21385.074875472474
+HRK890075,high_risk,28,1178,high,Latin America,Casino,78,29091.557353174303
+HRK508930,high_risk,39,251,high,Africa,Import/Export,31,23472.310732724956
+HRK994905,high_risk,41,1266,high,Middle East,Money Service Business,55,41778.73904959566
+HRK976325,high_risk,29,269,high,Latin America,Jewelry,66,44180.98049558477
+HRK539375,high_risk,54,1866,high,Latin America,Casino,90,7308.223204154701
+HRK664365,high_risk,61,976,high,Africa,Import/Export,66,28847.326411860482
+HRK883826,high_risk,43,640,high,Latin America,Jewelry,83,18337.640309387752
+HRK870319,high_risk,53,1863,high,Middle East,Import/Export,21,23380.501163381716
+HRK672661,high_risk,40,1349,high,Middle East,Import/Export,49,22635.975332475908
+HRK938722,high_risk,47,213,high,Middle East,Cryptocurrency,81,48921.47143700917
+HRK732556,high_risk,60,713,high,Africa,Import/Export,92,15349.718928345823
+HRK331251,high_risk,43,1753,high,Latin America,Import/Export,98,42172.91080467285
+HRK611945,high_risk,33,1491,high,Latin America,Casino,24,12034.263681898738
+HRK330080,high_risk,35,1880,high,Latin America,Casino,87,17178.977389179454
+HRK386193,high_risk,58,768,high,Latin America,Money Service Business,26,10277.606651020027
+HRK557007,high_risk,54,1362,high,Africa,Money Service Business,80,33705.58435488327
+HRK609232,high_risk,55,1384,high,Latin America,Cryptocurrency,29,24236.890434062057
+HRK130434,high_risk,48,1988,high,Latin America,Jewelry,50,36008.94441867033
+HRK507746,high_risk,25,1086,high,Africa,Jewelry,23,32143.647452660036
+HRK452457,high_risk,36,786,high,Middle East,Money Service Business,94,49638.32362573895
+HRK801364,high_risk,25,738,high,Middle East,Casino,90,16386.185341411394
+HRK812131,high_risk,48,1975,high,Africa,Casino,94,49061.8199795277
+HRK936912,high_risk,35,672,high,Africa,Import/Export,86,35441.768728427196
+HRK523956,high_risk,26,835,high,Latin America,Import/Export,73,24307.80661861997
+HRK859359,high_risk,62,1999,high,Middle East,Jewelry,29,36155.94377694864
+HRK273061,high_risk,64,1940,high,Middle East,Money Service Business,61,16298.604664932549
+HRK981334,high_risk,40,1440,high,Latin America,Money Service Business,46,38036.80665687408
+HRK590094,high_risk,58,1363,high,Latin America,Money Service Business,85,23511.85571356652
+HRK233827,high_risk,33,767,high,Latin America,Money Service Business,29,8671.942400217726
+HRK752483,high_risk,58,1891,high,Africa,Import/Export,85,24187.926056073014
+HRK660069,high_risk,60,1611,high,Latin America,Cryptocurrency,21,34872.101368372634
+HRK128276,high_risk,38,1397,high,Middle East,Import/Export,47,12465.54609668538
+HRK513160,high_risk,63,459,high,Middle East,Casino,97,42791.915849156976
+HRK720644,high_risk,48,853,high,Latin America,Import/Export,41,11447.665641618849
+MUL691807,mule,21,51,medium,Africa,Individual,176,11071.82621156721
+MUL795205,mule,21,125,medium,North America,Individual,197,14297.020372417124
+MUL128418,mule,20,138,medium,Asia Pacific,Individual,193,4832.587935147672
+MUL188025,mule,21,178,medium,Asia Pacific,Individual,189,6205.89536231139
+MUL773971,mule,30,116,medium,Africa,Individual,110,6455.502030562793
+MUL549433,mule,32,73,medium,North America,Individual,103,13939.168047060253
+MUL242291,mule,19,34,medium,Middle East,Individual,76,7226.353819547129
+MUL584125,mule,25,152,medium,Africa,Individual,128,13585.60094982683
+MUL290556,mule,20,46,medium,Latin America,Individual,132,3926.82700729122
+MUL152727,mule,25,170,medium,Asia Pacific,Individual,84,13684.24256658552
+MUL372793,mule,23,124,medium,Africa,Individual,118,7053.442522395107
+MUL497519,mule,25,158,medium,Latin America,Individual,136,3053.501936045738
+MUL443254,mule,24,83,medium,Asia Pacific,Individual,103,13357.0408735838
+MUL321941,mule,20,49,medium,Africa,Individual,176,6250.233316376779
+MUL576786,mule,32,158,medium,North America,Individual,133,10868.491960316283
+MUL442722,mule,33,160,medium,Latin America,Individual,157,11014.487664732016
+MUL453894,mule,30,49,medium,North America,Individual,53,7537.190210070213
+MUL898207,mule,23,170,medium,Middle East,Individual,135,5997.887341375932
+MUL497542,mule,32,138,medium,Africa,Individual,92,4551.194317180153
+MUL391773,mule,25,71,medium,Europe,Individual,164,8220.38391139346
+MUL888539,mule,28,106,medium,Latin America,Individual,186,3118.418041428262
+MUL972335,mule,33,68,medium,Asia Pacific,Individual,61,8164.135851535823
+MUL542042,mule,31,40,medium,Europe,Individual,91,12660.877526723441
+MUL364525,mule,23,127,medium,Asia Pacific,Individual,68,10961.035357334973
+MUL975467,mule,31,145,medium,Africa,Individual,162,9977.29273886199
+MUL185884,mule,18,128,medium,Asia Pacific,Individual,101,11492.882330844239
+MUL593152,mule,24,40,medium,Middle East,Individual,117,4469.169773948292
+MUL120324,mule,23,139,medium,Latin America,Individual,100,13847.4094710222
+MUL885408,mule,31,82,medium,North America,Individual,62,11964.855110881153
+MUL665621,mule,21,104,medium,North America,Individual,56,7904.387615577179
+MUL154615,mule,28,121,medium,Africa,Individual,72,6133.773167424354
+MUL466960,mule,28,140,medium,North America,Individual,75,12605.002260256393
+MUL335113,mule,18,43,medium,Africa,Individual,84,10555.328834734397
+MUL781725,mule,34,122,medium,Middle East,Individual,128,7877.125758547758
+MUL171951,mule,23,135,medium,Asia Pacific,Individual,96,10013.56630583431
+MUL919182,mule,23,93,medium,North America,Individual,56,10433.950020072018
+MUL783414,mule,34,103,medium,Europe,Individual,184,8828.359444160582
+MUL142213,mule,23,81,medium,North America,Individual,50,4112.993837093201
+MUL890870,mule,19,33,medium,North America,Individual,181,4714.8021614296695
+MUL132537,mule,21,30,medium,Africa,Individual,84,3514.212045753382
+MUL359295,mule,21,152,medium,Asia Pacific,Individual,76,9706.022231312403
+MUL309044,mule,33,128,medium,Asia Pacific,Individual,80,9743.837714099884
+MUL979995,mule,34,68,medium,Africa,Individual,88,8532.381398750116
+MUL121369,mule,28,95,medium,Latin America,Individual,61,12772.48777953776
+MUL751517,mule,24,30,medium,Europe,Individual,139,14622.22324486004
+MUL259784,mule,30,163,medium,Africa,Individual,93,2523.71174411398
+MUL350132,mule,22,175,medium,Africa,Individual,150,2136.4173348192776
+MUL232352,mule,27,62,medium,Europe,Individual,61,14356.926672407317
+MUL596564,mule,24,166,medium,Africa,Individual,198,2167.7939637528957
+MUL801978,mule,18,146,medium,Europe,Individual,166,3513.966096262263
+MUL219946,mule,20,164,medium,Asia Pacific,Individual,157,2628.715243634151
+MUL691364,mule,28,97,medium,Asia Pacific,Individual,162,8546.110759654519
+MUL328552,mule,19,156,medium,Africa,Individual,74,7790.024837712339
+MUL587623,mule,33,124,medium,Africa,Individual,168,8218.361261717226
+MUL833442,mule,30,179,medium,Middle East,Individual,91,5683.732895584537
+MUL368690,mule,27,68,medium,Europe,Individual,64,10129.289476155029
+MUL904150,mule,32,160,medium,Asia Pacific,Individual,59,4629.821339056647
+MUL486814,mule,32,64,medium,Africa,Individual,189,7171.314732078276
+MUL275939,mule,30,122,medium,Asia Pacific,Individual,116,6976.193305239527
+MUL735324,mule,32,161,medium,Asia Pacific,Individual,134,2335.5221072213626
+MUL736745,mule,25,116,medium,Middle East,Individual,58,9252.357783580952
+MUL884256,mule,30,100,medium,Africa,Individual,71,9036.511442241816
+MUL853252,mule,22,30,medium,Europe,Individual,159,7905.619158267693
+MUL220096,mule,34,79,medium,Latin America,Individual,138,3650.277378814645
+MUL915573,mule,31,141,medium,Africa,Individual,170,2768.3756713835087
+MUL959099,mule,23,54,medium,Europe,Individual,190,3184.828312780808
+MUL271720,mule,32,166,medium,Latin America,Individual,117,4302.069320164768
+MUL426147,mule,19,96,medium,Europe,Individual,185,9148.234318737177
+MUL213349,mule,33,123,medium,Middle East,Individual,62,4203.553194258762
+MUL706794,mule,32,111,medium,Europe,Individual,94,8176.168347267985
+MUL126925,mule,29,143,medium,North America,Individual,196,14902.690062105627
+MUL427110,mule,31,43,medium,Africa,Individual,94,4920.546169342966
+MUL703766,mule,26,80,medium,Asia Pacific,Individual,168,9959.584954020342
+MUL810250,mule,29,121,medium,Latin America,Individual,82,12823.953053239704
+MUL493537,mule,34,66,medium,Europe,Individual,148,3819.835897382917
+MUL515922,mule,20,109,medium,Africa,Individual,126,10041.933758221207
+MUL849747,mule,33,57,medium,Asia Pacific,Individual,95,2144.021183726026
+MUL307963,mule,25,114,medium,North America,Individual,114,6606.9033788197585
+MUL179688,mule,28,136,medium,Africa,Individual,126,9719.148215264879
+MUL720859,mule,32,178,medium,North America,Individual,152,9195.13309072805
+RNG824000,fraud_ring,37,147,medium,North America,Real Estate,69,32908.64886294951
+RNG824001,fraud_ring,31,109,medium,Europe,Real Estate,35,39750.490207566174
+RNG824002,fraud_ring,45,168,medium,North America,Real Estate,50,76152.2667570841
+RNG824003,fraud_ring,40,360,medium,North America,Consulting,52,38557.49296784379
+RNG824004,fraud_ring,46,176,medium,Europe,Consulting,57,56233.70696937743
+RNG824005,fraud_ring,49,117,medium,Europe,Consulting,35,91721.35804374768
+RNG824006,fraud_ring,30,134,medium,Europe,Import/Export,69,21573.683736449726
+RNG824007,fraud_ring,45,284,medium,Europe,Real Estate,47,74297.26913234481
+RNG824008,fraud_ring,44,296,medium,North America,Import/Export,30,27666.487207996033
+RNG824009,fraud_ring,37,185,medium,North America,Import/Export,54,38446.99154589376
+RNG824010,fraud_ring,43,270,medium,North America,Import/Export,38,61491.06673499857
+RNG824011,fraud_ring,43,295,medium,Europe,Real Estate,47,37577.39044159328
+RNG824012,fraud_ring,37,193,medium,North America,Import/Export,35,65387.87018387519
+RNG824013,fraud_ring,40,98,medium,North America,Import/Export,39,56626.974823631026
+RNG824014,fraud_ring,44,333,medium,Europe,Consulting,38,64435.548642632304
+RNG824015,fraud_ring,28,250,medium,Europe,Consulting,74,81879.02023209729
+RNG824016,fraud_ring,28,268,medium,Europe,Real Estate,64,60166.446788276844
+RNG824017,fraud_ring,29,306,medium,North America,Real Estate,47,89732.25959476824
+RNG824018,fraud_ring,37,319,medium,Europe,Consulting,39,28755.961625649845
+RNG824019,fraud_ring,33,67,medium,North America,Real Estate,75,15140.544703339892
+RNG824020,fraud_ring,45,326,medium,North America,Consulting,71,87320.05818822248
+RNG824021,fraud_ring,48,200,medium,Europe,Consulting,39,92055.32892214981
+RNG824022,fraud_ring,33,258,medium,Europe,Import/Export,52,65833.4126911349
+RNG824023,fraud_ring,31,210,medium,North America,Import/Export,55,80370.18216972008
+RNG824024,fraud_ring,47,282,medium,North America,Real Estate,79,39570.23348972186
+RNG824025,fraud_ring,47,268,medium,North America,Import/Export,54,75637.88204294855
+RNG824026,fraud_ring,31,279,medium,Europe,Real Estate,35,43026.52663064804
+RNG824027,fraud_ring,27,141,medium,North America,Import/Export,49,77069.32684217511
+RNG824028,fraud_ring,43,273,medium,North America,Real Estate,76,92936.20527166761
+RNG824029,fraud_ring,48,74,medium,North America,Real Estate,64,86151.17894772084
+RNG824030,fraud_ring,41,159,medium,North America,Import/Export,48,80917.31202318384
+RNG824031,fraud_ring,40,170,medium,Europe,Real Estate,37,17416.537467575337
+RNG824032,fraud_ring,40,142,medium,Europe,Consulting,74,87282.83091201165
+RNG824033,fraud_ring,34,93,medium,Europe,Consulting,35,72129.0562210656
+RNG824034,fraud_ring,47,193,medium,North America,Import/Export,54,14839.508049578504
+RNG824035,fraud_ring,38,211,medium,North America,Import/Export,63,15731.629075226505
+RNG824036,fraud_ring,35,225,medium,North America,Import/Export,55,17582.983967617416
+RNG824037,fraud_ring,46,243,medium,North America,Import/Export,37,88412.64646587873
+RNG824038,fraud_ring,40,283,medium,Europe,Real Estate,36,21851.821309258634
+RNG824039,fraud_ring,25,216,medium,North America,Import/Export,33,66248.17735384317
+RNG824040,fraud_ring,27,305,medium,North America,Real Estate,56,96352.49646598707
+RNG824041,fraud_ring,40,289,medium,North America,Real Estate,70,83849.69253301469
+RNG824042,fraud_ring,34,237,medium,North America,Consulting,70,37708.67127469307
+RNG824043,fraud_ring,41,286,medium,Europe,Consulting,77,84660.64441147448
+RNG824044,fraud_ring,44,234,medium,Europe,Real Estate,43,70391.16824796188
+RNG824045,fraud_ring,41,83,medium,Europe,Real Estate,47,46700.02309655464
+RNG824046,fraud_ring,38,138,medium,Europe,Real Estate,44,87624.68566614269
+RNG824047,fraud_ring,47,323,medium,North America,Real Estate,76,87713.61475322038
+RNG824048,fraud_ring,26,248,medium,Europe,Import/Export,78,29936.554490179522
+RNG824049,fraud_ring,26,138,medium,Europe,Import/Export,58,56848.94535743726
+STR970917,structuring,51,944,low,North America,Retail,28,9422.327934096736
+STR757711,structuring,51,565,low,North America,Individual,28,8911.286858313893
+STR354646,structuring,59,1296,low,Europe,Individual,36,5880.706880448421
+STR206851,structuring,45,485,low,Europe,Individual,31,6245.914862714055
+STR831059,structuring,52,309,low,Europe,Individual,48,8358.632979409587
+STR910004,structuring,46,1178,low,North America,Individual,19,9143.111303503789
+STR416232,structuring,45,998,low,North America,Individual,23,6884.128144974578
+STR991597,structuring,54,444,low,North America,Retail,36,8340.315041691261
+STR817497,structuring,52,336,low,Europe,Restaurant,47,8258.131349478146
+STR729577,structuring,30,1074,low,North America,Individual,38,6384.662660254297
+STR944657,structuring,58,1285,low,North America,Restaurant,46,8199.50432877415
+STR226935,structuring,39,1308,low,North America,Retail,30,6046.864872740487
+STR934904,structuring,47,1053,low,Europe,Individual,27,5365.239010086715
+STR693423,structuring,51,1152,low,North America,Individual,31,8876.505587095959
+STR920652,structuring,52,1385,low,North America,Retail,48,7073.301201087532
+STR143064,structuring,32,250,low,Europe,Retail,21,8395.562125425815
+STR464069,structuring,51,372,low,Europe,Retail,43,8178.673985644982
+STR658623,structuring,43,700,low,North America,Restaurant,26,9293.190192851387
+STR549186,structuring,53,870,low,Europe,Restaurant,22,6385.186175117537
+STR793655,structuring,46,715,low,Europe,Restaurant,21,5842.059216847258

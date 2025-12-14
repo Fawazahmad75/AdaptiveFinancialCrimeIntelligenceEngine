@@ -1,0 +1,544 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AML Detection Dashboard - Sample Output</title>
+    <style>
+        :root {
+            --bg-primary: #0f0f23;
+            --bg-secondary: #1a1a2e;
+            --bg-card: #16213e;
+            --text-primary: #e8e8e8;
+            --text-secondary: #a0a0a0;
+            --accent-red: #e53935;
+            --accent-orange: #ff7043;
+            --accent-amber: #ffc107;
+            --accent-green: #4caf50;
+            --accent-blue: #2196f3;
+            --accent-purple: #9c27b0;
+        }
+        
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: 'Segoe UI', 'SF Pro Display', -apple-system, sans-serif;
+            background-color: var(--bg-primary);
+            color: var(--text-primary);
+            line-height: 1.6;
+            min-height: 100vh;
+        }
+        
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        
+        header {
+            background: linear-gradient(135deg, var(--bg-secondary) 0%, var(--bg-card) 100%);
+            padding: 40px;
+            border-radius: 16px;
+            margin-bottom: 30px;
+            border: 1px solid rgba(255,255,255,0.1);
+            text-align: center;
+        }
+        
+        header h1 {
+            font-size: 2.8rem;
+            font-weight: 700;
+            margin-bottom: 10px;
+            background: linear-gradient(90deg, #fff, var(--accent-blue), var(--accent-purple));
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+        }
+        
+        header p {
+            color: var(--text-secondary);
+            font-size: 1.2rem;
+        }
+        
+        .sample-badge {
+            display: inline-block;
+            background: var(--accent-purple);
+            color: white;
+            padding: 5px 15px;
+            border-radius: 20px;
+            font-size: 0.9rem;
+            margin-top: 15px;
+        }
+        
+        .metrics-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 20px;
+            margin-bottom: 30px;
+        }
+        
+        .metric-card {
+            background: var(--bg-card);
+            padding: 28px;
+            border-radius: 16px;
+            border: 1px solid rgba(255,255,255,0.05);
+            transition: transform 0.3s, box-shadow 0.3s;
+            text-align: center;
+        }
+        
+        .metric-card:hover {
+            transform: translateY(-8px);
+            box-shadow: 0 12px 40px rgba(0,0,0,0.4);
+        }
+        
+        .metric-card h3 {
+            font-size: 0.85rem;
+            color: var(--text-secondary);
+            text-transform: uppercase;
+            letter-spacing: 1.5px;
+            margin-bottom: 12px;
+        }
+        
+        .metric-card .value {
+            font-size: 2.8rem;
+            font-weight: 700;
+        }
+        
+        .metric-card.critical .value { color: var(--accent-red); }
+        .metric-card.high .value { color: var(--accent-orange); }
+        .metric-card.medium .value { color: var(--accent-amber); }
+        .metric-card.low .value { color: var(--accent-green); }
+        .metric-card.info .value { color: var(--accent-blue); }
+        
+        .section {
+            background: var(--bg-secondary);
+            border-radius: 16px;
+            padding: 28px;
+            margin-bottom: 30px;
+            border: 1px solid rgba(255,255,255,0.05);
+        }
+        
+        .section h2 {
+            font-size: 1.5rem;
+            margin-bottom: 24px;
+            padding-bottom: 12px;
+            border-bottom: 2px solid var(--bg-card);
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+        
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        
+        th, td {
+            padding: 14px 18px;
+            text-align: left;
+            border-bottom: 1px solid var(--bg-card);
+        }
+        
+        th {
+            background: var(--bg-card);
+            font-weight: 600;
+            text-transform: uppercase;
+            font-size: 0.8rem;
+            letter-spacing: 0.5px;
+            color: var(--text-secondary);
+        }
+        
+        tr:hover {
+            background: rgba(255,255,255,0.03);
+        }
+        
+        .risk-badge {
+            display: inline-block;
+            padding: 6px 14px;
+            border-radius: 20px;
+            font-size: 0.75rem;
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+        }
+        
+        .risk-critical { background: rgba(229,57,53,0.2); color: var(--accent-red); border: 1px solid var(--accent-red); }
+        .risk-high { background: rgba(255,112,67,0.2); color: var(--accent-orange); border: 1px solid var(--accent-orange); }
+        .risk-medium { background: rgba(255,193,7,0.2); color: var(--accent-amber); border: 1px solid var(--accent-amber); }
+        .risk-low { background: rgba(76,175,80,0.2); color: var(--accent-green); border: 1px solid var(--accent-green); }
+        
+        .grid-2 {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+            gap: 24px;
+        }
+        
+        .alert-type-bar {
+            display: flex;
+            align-items: center;
+            margin: 10px 0;
+            gap: 12px;
+        }
+        
+        .alert-type-bar .label {
+            width: 200px;
+            font-size: 0.9rem;
+        }
+        
+        .alert-type-bar .bar {
+            flex: 1;
+            height: 24px;
+            background: var(--bg-card);
+            border-radius: 12px;
+            overflow: hidden;
+        }
+        
+        .alert-type-bar .fill {
+            height: 100%;
+            border-radius: 12px;
+            transition: width 1s ease;
+        }
+        
+        .alert-type-bar .count {
+            width: 50px;
+            text-align: right;
+            font-weight: 600;
+        }
+        
+        .network-placeholder {
+            background: var(--bg-card);
+            border-radius: 12px;
+            padding: 60px;
+            text-align: center;
+            border: 2px dashed rgba(255,255,255,0.1);
+        }
+        
+        .network-placeholder .icon {
+            font-size: 80px;
+            margin-bottom: 20px;
+        }
+        
+        .network-placeholder h3 {
+            font-size: 1.5rem;
+            margin-bottom: 10px;
+        }
+        
+        .network-placeholder p {
+            color: var(--text-secondary);
+        }
+        
+        .stats-grid {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 20px;
+            margin-top: 20px;
+        }
+        
+        .stat-item {
+            background: var(--bg-card);
+            padding: 20px;
+            border-radius: 12px;
+            text-align: center;
+        }
+        
+        .stat-item .number {
+            font-size: 2rem;
+            font-weight: 700;
+            color: var(--accent-blue);
+        }
+        
+        .stat-item .label {
+            font-size: 0.85rem;
+            color: var(--text-secondary);
+            margin-top: 5px;
+        }
+        
+        footer {
+            text-align: center;
+            padding: 40px;
+            color: var(--text-secondary);
+            font-size: 0.9rem;
+        }
+        
+        footer a {
+            color: var(--accent-blue);
+            text-decoration: none;
+        }
+        
+        .pulse {
+            animation: pulse 2s infinite;
+        }
+        
+        @keyframes pulse {
+            0%, 100% { opacity: 1; }
+            50% { opacity: 0.5; }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>🔍 AML Detection Dashboard</h1>
+            <p>Suspicious Transaction Analysis Report</p>
+            <span class="sample-badge">📋 SAMPLE OUTPUT - What You'll See When Running</span>
+        </header>
+        
+        <div class="metrics-grid">
+            <div class="metric-card info">
+                <h3>Total Transactions</h3>
+                <div class="value">25,000</div>
+            </div>
+            <div class="metric-card info">
+                <h3>Transaction Volume</h3>
+                <div class="value">$45.2M</div>
+            </div>
+            <div class="metric-card critical">
+                <h3>Critical Alerts</h3>
+                <div class="value">47</div>
+            </div>
+            <div class="metric-card high">
+                <h3>High Priority</h3>
+                <div class="value">128</div>
+            </div>
+            <div class="metric-card medium">
+                <h3>Suspicious Accounts</h3>
+                <div class="value">186</div>
+            </div>
+            <div class="metric-card low">
+                <h3>Total Accounts</h3>
+                <div class="value">1,000</div>
+            </div>
+        </div>
+        
+        <div class="section">
+            <h2>⚠️ Top 10 Highest Risk Accounts</h2>
+            <table>
+                <thead>
+                    <tr>
+                        <th>Rank</th>
+                        <th>Account ID</th>
+                        <th>Risk Score</th>
+                        <th>Category</th>
+                        <th>Alerts</th>
+                        <th>Total Amount</th>
+                        <th>Primary Flags</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>1</td>
+                        <td><strong>MUL456789</strong></td>
+                        <td>92.4</td>
+                        <td><span class="risk-badge risk-critical">CRITICAL</span></td>
+                        <td>12</td>
+                        <td>$245,000</td>
+                        <td>Money Mule Pattern, High Velocity</td>
+                    </tr>
+                    <tr>
+                        <td>2</td>
+                        <td><strong>RNG000001</strong></td>
+                        <td>87.2</td>
+                        <td><span class="risk-badge risk-critical">CRITICAL</span></td>
+                        <td>9</td>
+                        <td>$520,000</td>
+                        <td>Fraud Ring, ML Anomaly</td>
+                    </tr>
+                    <tr>
+                        <td>3</td>
+                        <td><strong>MUL567890</strong></td>
+                        <td>81.5</td>
+                        <td><span class="risk-badge risk-critical">CRITICAL</span></td>
+                        <td>8</td>
+                        <td>$198,000</td>
+                        <td>Mule Pattern, Rapid Deposits</td>
+                    </tr>
+                    <tr>
+                        <td>4</td>
+                        <td><strong>STR678901</strong></td>
+                        <td>75.8</td>
+                        <td><span class="risk-badge risk-critical">CRITICAL</span></td>
+                        <td>11</td>
+                        <td>$85,500</td>
+                        <td>Structuring, Under $10k Deposits</td>
+                    </tr>
+                    <tr>
+                        <td>5</td>
+                        <td><strong>RNG000002</strong></td>
+                        <td>72.3</td>
+                        <td><span class="risk-badge risk-high">HIGH</span></td>
+                        <td>7</td>
+                        <td>$485,000</td>
+                        <td>Fraud Ring Connection</td>
+                    </tr>
+                    <tr>
+                        <td>6</td>
+                        <td><strong>RNG000003</strong></td>
+                        <td>68.9</td>
+                        <td><span class="risk-badge risk-high">HIGH</span></td>
+                        <td>6</td>
+                        <td>$420,000</td>
+                        <td>Fraud Ring, LOF Outlier</td>
+                    </tr>
+                    <tr>
+                        <td>7</td>
+                        <td><strong>STR789012</strong></td>
+                        <td>55.2</td>
+                        <td><span class="risk-badge risk-high">HIGH</span></td>
+                        <td>8</td>
+                        <td>$68,000</td>
+                        <td>Structuring Pattern</td>
+                    </tr>
+                    <tr>
+                        <td>8</td>
+                        <td><strong>HRK345678</strong></td>
+                        <td>48.5</td>
+                        <td><span class="risk-badge risk-medium">MEDIUM</span></td>
+                        <td>4</td>
+                        <td>$380,000</td>
+                        <td>High Daily Amount</td>
+                    </tr>
+                    <tr>
+                        <td>9</td>
+                        <td><strong>MUL890123</strong></td>
+                        <td>45.2</td>
+                        <td><span class="risk-badge risk-medium">MEDIUM</span></td>
+                        <td>5</td>
+                        <td>$125,000</td>
+                        <td>Velocity Spike</td>
+                    </tr>
+                    <tr>
+                        <td>10</td>
+                        <td><strong>STR234567</strong></td>
+                        <td>42.8</td>
+                        <td><span class="risk-badge risk-medium">MEDIUM</span></td>
+                        <td>4</td>
+                        <td>$72,000</td>
+                        <td>Round Amounts Pattern</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+        
+        <div class="grid-2">
+            <div class="section">
+                <h2>📊 Alert Types Distribution</h2>
+                
+                <div class="alert-type-bar">
+                    <span class="label">MULE_PATTERN</span>
+                    <div class="bar"><div class="fill" style="width: 85%; background: var(--accent-red);"></div></div>
+                    <span class="count">68</span>
+                </div>
+                
+                <div class="alert-type-bar">
+                    <span class="label">STRUCTURING</span>
+                    <div class="bar"><div class="fill" style="width: 72%; background: var(--accent-orange);"></div></div>
+                    <span class="count">58</span>
+                </div>
+                
+                <div class="alert-type-bar">
+                    <span class="label">FRAUD_RING</span>
+                    <div class="bar"><div class="fill" style="width: 55%; background: var(--accent-purple);"></div></div>
+                    <span class="count">44</span>
+                </div>
+                
+                <div class="alert-type-bar">
+                    <span class="label">ISOLATION_FOREST</span>
+                    <div class="bar"><div class="fill" style="width: 48%; background: var(--accent-blue);"></div></div>
+                    <span class="count">38</span>
+                </div>
+                
+                <div class="alert-type-bar">
+                    <span class="label">HIGH_VELOCITY</span>
+                    <div class="bar"><div class="fill" style="width: 42%; background: var(--accent-amber);"></div></div>
+                    <span class="count">34</span>
+                </div>
+                
+                <div class="alert-type-bar">
+                    <span class="label">ACTIVITY_SPIKE</span>
+                    <div class="bar"><div class="fill" style="width: 35%; background: var(--accent-green);"></div></div>
+                    <span class="count">28</span>
+                </div>
+            </div>
+            
+            <div class="section">
+                <h2>📈 Detection Summary</h2>
+                <div class="stats-grid">
+                    <div class="stat-item">
+                        <div class="number">512</div>
+                        <div class="label">Total Alerts</div>
+                    </div>
+                    <div class="stat-item">
+                        <div class="number">186</div>
+                        <div class="label">Flagged Accounts</div>
+                    </div>
+                    <div class="stat-item">
+                        <div class="number">18.6%</div>
+                        <div class="label">Suspicion Rate</div>
+                    </div>
+                    <div class="stat-item">
+                        <div class="number">42.5</div>
+                        <div class="label">Avg Risk Score</div>
+                    </div>
+                    <div class="stat-item">
+                        <div class="number">23</div>
+                        <div class="label">Communities</div>
+                    </div>
+                    <div class="stat-item">
+                        <div class="number">87</div>
+                        <div class="label">Suspicious Paths</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <div class="section">
+            <h2>🕸️ Network Graph Visualization</h2>
+            <div class="network-placeholder">
+                <div class="icon">🕸️</div>
+                <h3>Transaction Network Graph</h3>
+                <p>When you run the full pipeline, this section displays an interactive network graph showing:</p>
+                <br>
+                <ul style="text-align: left; max-width: 500px; margin: 0 auto; color: var(--text-secondary);">
+                    <li>🔴 <strong>Red nodes</strong> = Critical/High risk accounts</li>
+                    <li>🟡 <strong>Yellow nodes</strong> = Medium risk accounts</li>
+                    <li>🟢 <strong>Green nodes</strong> = Low risk accounts</li>
+                    <li>➡️ <strong>Arrows</strong> = Money flow direction</li>
+                    <li>📏 <strong>Edge thickness</strong> = Transaction amount</li>
+                    <li>🔗 <strong>Clusters</strong> = Fraud rings & connected accounts</li>
+                </ul>
+                <br>
+                <p style="color: var(--accent-blue);">The graph PNG is saved to: data/network_graph.png</p>
+            </div>
+        </div>
+        
+        <div class="section">
+            <h2>🎯 Recommended Actions</h2>
+            <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+                <div style="background: rgba(229,57,53,0.1); padding: 20px; border-radius: 12px; border-left: 4px solid var(--accent-red);">
+                    <h4 style="color: var(--accent-red);">🚨 Urgent (24 hours)</h4>
+                    <p style="color: var(--text-secondary); margin-top: 10px;">Review 47 critical alerts and consider filing SARs for accounts MUL456789, RNG000001-003</p>
+                </div>
+                <div style="background: rgba(255,112,67,0.1); padding: 20px; border-radius: 12px; border-left: 4px solid var(--accent-orange);">
+                    <h4 style="color: var(--accent-orange);">⚡ High Priority (72 hours)</h4>
+                    <p style="color: var(--text-secondary); margin-top: 10px;">Investigate 128 high-priority alerts. Focus on structuring patterns in STR-prefixed accounts</p>
+                </div>
+                <div style="background: rgba(255,193,7,0.1); padding: 20px; border-radius: 12px; border-left: 4px solid var(--accent-amber);">
+                    <h4 style="color: var(--accent-amber);">📋 Standard (1 week)</h4>
+                    <p style="color: var(--text-secondary); margin-top: 10px;">Schedule enhanced due diligence for medium-risk accounts. Update customer risk ratings</p>
+                </div>
+            </div>
+        </div>
+        
+        <footer>
+            <p><strong>AML Suspicious Transaction Detector</strong></p>
+            <p style="margin-top: 10px;">This is a sample dashboard showing what outputs you'll see when running the full pipeline.</p>
+            <p style="margin-top: 10px;">To run: <code style="background: var(--bg-card); padding: 5px 10px; border-radius: 4px;">pip install -r requirements.txt && jupyter notebook notebooks/aml_dashboard.ipynb</code></p>
+        </footer>
+    </div>
+</body>
+</html>
+
+

@@ -1,0 +1,15 @@
+account_id,customer_type,customer_age,account_age_days,risk_category,region,business_type,avg_monthly_transactions,avg_transaction_amount
+NRM123456,normal,45,1825,low,North America,Individual,12,2500.50
+NRM234567,normal,32,730,low,Europe,Retail,8,1800.25
+HRK345678,high_risk,55,540,high,Middle East,Import/Export,65,35000.00
+MUL456789,mule,24,45,medium,North America,Individual,150,8500.00
+MUL567890,mule,22,30,medium,Europe,Individual,180,12000.00
+RNG000001,fraud_ring,38,180,medium,North America,Consulting,55,75000.00
+RNG000002,fraud_ring,41,195,medium,North America,Real Estate,48,82000.00
+RNG000003,fraud_ring,35,210,medium,Europe,Import/Export,62,68000.00
+STR678901,structuring,48,820,low,North America,Restaurant,35,9200.00
+STR789012,structuring,52,650,low,North America,Individual,28,9450.00
+NRM890123,normal,28,1460,low,Asia Pacific,Individual,15,3200.00
+NRM901234,normal,61,2920,low,North America,Retail,10,4500.00
+
+
